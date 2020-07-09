@@ -1,0 +1,26 @@
+sku,title,featured,sizes,description,in_stock,price,categories,images,position,color
+woo-vneck-tee,V-Neck T-Shirt,1,small,This is a variable product.,1,112,Clothes,"https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/vneck-tee-2.jpg, https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/vnech-tee-green-1.jpg, https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/vnech-tee-blue-1.jpg",0,Blue
+woo-hoodie,Hoodie,0,medium,This is a variable product.,1,234,Clothes,"https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/hoodie-2.jpg, https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/hoodie-blue-1.jpg, https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/hoodie-green-1.jpg, https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/hoodie-with-logo-2.jpg",0,"Blue, Green, Red"
+woo-hoodie-with-logo,Hoodie with Logo,0,medium,This is a simple product.,1,45,Clothes>Shirts,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/hoodie-with-logo-2.jpg,0,Blue
+woo-tshirt,T-Shirt,0,small,This is a simple product.,1,18,Clothes,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/tshirt-2.jpg,0,Gray
+woo-beanie,Beanie,0,small,This is a simple product.,1,20,Accessories,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/beanie-2.jpg,0,Red
+woo-belt,Belt,0,medium,This is a simple product.,1,65,Accessories,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/belt-2.jpg,0,
+woo-cap,Cap,1,medium,This is a simple product.,1,18,Accessories,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/cap-2.jpg,0,Yellow
+woo-sunglasses,Sunglasses,1,medium,This is a simple product.,1,90,Accessories,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/sunglasses-2.jpg,0,
+woo-hoodie-with-pocket,Hoodie with Pocket,1,hidden,This is a simple product.,1,45,Clothes,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/hoodie-with-pocket-2.jpg,0,Gray
+woo-hoodie-with-zipper,Hoodie with Zipper,1,large,This is a simple product.,1,45,Clothes,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/hoodie-with-zipper-2.jpg,0,
+woo-long-sleeve-tee,Long Sleeve Tee,0,medium,This is a simple product.,1,25,Clothes>Hoodie,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/long-sleeve-tee-2.jpg,0,Green
+woo-polo,Polo,0,large,This is a simple product.,1,20,Clothes,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/polo-2.jpg,0,Blue
+Shades-2,Shades Nike,0,large,"This is a simple, virtual product.",1,15,Accessories>Eyewear,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/album-1.jpg,0,
+Shades-1,Shades Grey,0,medium,"This is a simple, virtual product.",1,3,Accessories>Eyewear,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/single-1.jpg,0,
+woo-vneck-tee-red,V-Neck T-Shirt - Red,0,medium,,1,20,Clothes,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/vneck-tee-2.jpg,0,Red
+woo-vneck-tee-green,V-Neck T-Shirt - Green,0,large,,1,20,Clothes,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/vnech-tee-green-1.jpg,0,Green
+woo-vneck-tee-blue,V-Neck T-Shirt - Blue,0,large,,1,15,Clothes,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/vnech-tee-blue-1.jpg,0,Blue
+woo-hoodie-red,"Hoodie - Red, No",0,large,,1,45,Clothes,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/hoodie-2.jpg,1,Red
+woo-hoodie-green,"Hoodie - Green, No",0,large,,1,45,Clothes,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/hoodie-green-1.jpg,2,Green
+Bag-5,Blue Bag,0,small,,1,45,Clothes,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/hoodie-blue-1.jpg,3,Blue
+Bag-3,Green Bag,0,large,This is a simple product.,1,18,Accessories>Bags,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/t-shirt-with-logo-1.jpg,0,Gray
+Pallet-2,Pallet,0,small,This is a simple product.,1,20,Accessories>Beauty,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/beanie-with-logo-1.jpg,0,Red
+Lipstick-1,Lipstick,0,small,This is a grouped product.,1,24.32,Accessories>Beauty,"https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/logo-1.jpg, https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/beanie-with-logo-1.jpg, https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/t-shirt-with-logo-1.jpg, https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/hoodie-with-logo-2.jpg",0,
+Black-shoes,Black Shoes,0,large,This is an external product.,1,11.05,Accessories>Shoes,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/pennant-1.jpg,0,Black
+Brown-shoes,Brown Shoes,0,large,,1,45,Accessories>Shoes,https://raw.githubusercontent.com/wpmaps/sample-data/master/shirts-data/image/hoodie-with-logo-2.jpg,0,Brown
