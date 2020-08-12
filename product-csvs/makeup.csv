@@ -1,49 +1,49 @@
-title,price,images,url,description,rating,category,tab
-"Maybelline Face Studio Master Hi-Light Light Booster Bronzer",14.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/face-studio-master-hilig-0.png,https://well.ca/products/maybelline-face-studio-master_88837.html,"Maybelline Face Studio Master Hi-Light Light Boosting bronzer formula has an expert 
+title,price,images,url,description,rating,categories,tab
+Maybelline Face Studio Master Hi-Light Light Booster Bronzer,14.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/face-studio-master-hilig-0.png,https://well.ca/products/maybelline-face-studio-master_88837.html,"Maybelline Face Studio Master Hi-Light Light Boosting bronzer formula has an expert 
 balance of shade + shimmer illuminator for natural glow. Skin goes 
 soft-lit with zero glitz.
 
 		For Best Results: Brush over all shades in palette and gently sweep over 
 cheekbones, brow bones, and temples, or anywhere light naturally touches
- the face.",5,bronzer,bronzer
-"Maybelline Fit Me Bronzer",10.29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/fit-me-bronzer-1.png,https://well.ca/products/maybelline-fit-me-bronzer_31265.html,"Why You'll Love It
+ the face.",5,Bronzer,Bronzer
+Maybelline Fit Me Bronzer,10.29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/fit-me-bronzer-1.png,https://well.ca/products/maybelline-fit-me-bronzer_31265.html,"Why You'll Love It
 
 Lightweight pigments blend easily and wear evenly
 Provides a natural, fade-proof bronzed color that leaves skin the way it was meant to be...fresh, breathing and natural
 
-For Best Results: For soft, natural look, brush along cheekbone, sweeping upward.",4.5,bronzer,bronzer
-"Maybelline Facestudio Master Contour Kit",15.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/facestudio-master-contou-2.png,https://well.ca/products/maybelline-facestudio-master-contour_120303.html?cat=328,"Maybelline Facestudio Master Contour Kit is the ultimate on the go all-in-one palette, with contouring brush included.  Define and highlight in a New York minute with this effortless 3-step face contouring kit.  This easy-to-use 3-step face contouring kit features a bronzer, blush and highlighter.",,bronzer,bronzer
-"Maybelline Face Studio Master Hi-Light Light Booster Blush",14.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/face-studio-master-hilig-3.png,https://well.ca/products/maybelline-face-studio-master_88831.html,"Maybelline Face Studio Master Hi-Light Light Boosting blush formula has an expert 
+For Best Results: For soft, natural look, brush along cheekbone, sweeping upward.",4.5,Bronzer,Bronzer
+Maybelline Facestudio Master Contour Kit,15.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/facestudio-master-contou-2.png,https://well.ca/products/maybelline-facestudio-master-contour_120303.html?cat=328,"Maybelline Facestudio Master Contour Kit is the ultimate on the go all-in-one palette, with contouring brush included.  Define and highlight in a New York minute with this effortless 3-step face contouring kit.  This easy-to-use 3-step face contouring kit features a bronzer, blush and highlighter.",,Bronzer,Bronzer
+Maybelline Face Studio Master Hi-Light Light Booster Blush,14.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/face-studio-master-hilig-3.png,https://well.ca/products/maybelline-face-studio-master_88831.html,"Maybelline Face Studio Master Hi-Light Light Boosting blush formula has an expert 
 balance of shade + shimmer illuminator for natural glow. Skin goes 
 soft-lit with zero glitz.
 
 		For Best Results: Brush over all shades in palette and gently sweep over 
 cheekbones, brow bones, and temples, or anywhere light naturally touches
- the face.",,powder,blush
-"Maybelline Face Studio Master Hi-Light Light Booster Blush ",14.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/face-studio-master-hilig-4.png,https://well.ca/products/maybelline-face-studio-master_88836.html,"Maybelline Face Studio Master Hi-Light Light Boosting blush formula has an expert 
+ the face.",,Blush,Blush
+Maybelline Face Studio Master Hi-Light Light Booster Blush ,14.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/face-studio-master-hilig-4.png,https://well.ca/products/maybelline-face-studio-master_88836.html,"Maybelline Face Studio Master Hi-Light Light Boosting blush formula has an expert 
 balance of shade + shimmer illuminator for natural glow. Skin goes 
 soft-lit with zero glitz.
 
 		For Best Results: Brush over all shades in palette and gently sweep over 
 cheekbones, brow bones, and temples, or anywhere light naturally touches
- the face.",5,powder,blush
-"Maybelline Fit Me Blush",10.29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/fit-me-blush-5.png,https://well.ca/products/maybelline-fit-me-blush_31269.html,"Maybelline Fit Me Blush has lightweight pigments blend easily and wear evenly. It provides a natural, fade-proof cheek color that leaves skin the way it was meant to be...fresh, breathing, and natural.
+ the face.",5,Blush,Blush
+Maybelline Fit Me Blush,10.29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/fit-me-blush-5.png,https://well.ca/products/maybelline-fit-me-blush_31269.html,"Maybelline Fit Me Blush has lightweight pigments blend easily and wear evenly. It provides a natural, fade-proof cheek color that leaves skin the way it was meant to be...fresh, breathing, and natural.
 
-For Best Results: For soft, natural look, brush along cheekbone, sweeping upward.",4.8,powder,blush
-"Maybelline Dream Bouncy Blush",11.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/dream-bouncy-blush-6.png,https://well.ca/products/maybelline-dream-bouncy-blush_50689.html,"Now, blush has bounce! Freshest flush ever:• New bouncy texture is formulated with silicone elastomers• Lightweight like a powder, yet melts seamlessly into skin like a cream giving you a fresh flush• Dermatologist tested• Allergy tested• Non-comedogenic
+For Best Results: For soft, natural look, brush along cheekbone, sweeping upward.",4.8,Blush,Blush
+Maybelline Dream Bouncy Blush,11.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/dream-bouncy-blush-6.png,https://well.ca/products/maybelline-dream-bouncy-blush_50689.html,"Now, blush has bounce! Freshest flush ever:• New bouncy texture is formulated with silicone elastomers• Lightweight like a powder, yet melts seamlessly into skin like a cream giving you a fresh flush• Dermatologist tested• Allergy tested• Non-comedogenic
                     
                     
                     
                         
                         For best results: With your fingertips, blend a small amount of
  blush onto the apples of your cheeks, applying from your cheekbones to 
-your temples. To build colour intensity, apply more blush.",4.5,cream,blush
-"Maybelline Color Sensational Lipliner",8.29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-liplin-7.png,https://well.ca/products/maybelline-color-sensational_14541.html,"Keep your Maybelline lip color beautiful with matching lip liners that won't smudge, smear or bleed for smooth, defined lips. For best results: Line your lips starting in the center of your upper lip. Work from the 
+your temples. To build colour intensity, apply more blush.",4.5,Blush,Blush
+Maybelline Color Sensational Lipliner,8.29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-liplin-7.png,https://well.ca/products/maybelline-color-sensational_14541.html,"Keep your Maybelline lip color beautiful with matching lip liners that won't smudge, smear or bleed for smooth, defined lips. For best results: Line your lips starting in the center of your upper lip. Work from the 
 center to outer edges of your lips using small strokes, following the 
 contour of your mouth. Follow the same technique for your bottom lip. To
  extend the wear of your favorite lip color or lip gloss, first fill in 
-your lips completely with lip liner.",3.5,lip_liner,lip_liner
-"Maybelline Dream Smooth Mousse Foundation",14.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/dream-smooth-mousse-foun-8.png,https://well.ca/products/maybelline-dream-smooth-mousse_28944.html,"Why You'll Love ItUnique cream-whipped foundation provides 100% baby-smooth perfection.
+your lips completely with lip liner.",3.5,Lip Liner,Lip Liner
+Maybelline Dream Smooth Mousse Foundation,14.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/dream-smooth-mousse-foun-8.png,https://well.ca/products/maybelline-dream-smooth-mousse_28944.html,"Why You'll Love ItUnique cream-whipped foundation provides 100% baby-smooth perfection.
 
 Skin looks and feels hydrated for 14 hours - never rough or dry
 Lightweight formula provides perfectly moisturizing coverage
@@ -51,66 +51,66 @@ Blends seamlessly and feels fresh all-day
 Oil-free, Fragrance-free, Dermatologist Tested, Allergy Tested, Non-comedogenic – won’t clog pores.
 Safe for sensitive skin
 
- ",3.8,cream,foundation
-"Maybelline Fit Me Shine-Free Foundation Stick",10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/fit-me-shinefree-foundat-9.png,https://well.ca/products/maybelline-fit-me-shine-free_79864.html,"Get flawless, shine-free skin instantly and on-the-go for tailor-made 
+ ",3.8,Foundation,Foundation
+Maybelline Fit Me Shine-Free Foundation Stick,10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/fit-me-shinefree-foundat-9.png,https://well.ca/products/maybelline-fit-me-shine-free_79864.html,"Get flawless, shine-free skin instantly and on-the-go for tailor-made 
 mattifying coverage.  The anti-shine core has ultra-lightweight powders 
 built in to the stick foundation to instantly dissolve excess oil. Features: Maybelline's first gel stick foundation with an anti-shine core
 Fresh gel foundation blends to a flawless matte finish
-Lightweight powders in the anti-shine core instantly dissolve excess oil",4.7,cream,foundation
-"Maybelline Dream Matte Mousse Foundation",14.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/dream-matte-mousse-found-10.png,https://well.ca/products/maybelline-dream-matte-mousse_3747.html,"Maybelline Dream Matte Mouse Foundation is a revolutionary air-soft mousse that provides perfecting coverage for 100% velvet-matte complexion. It's non-comedogenic, fragrance-free, dermatologist-tested, allergy-tested and ideal for normal to oily skin.For best results: Apply smoothly and evenly to your face and blend with your fingertips.﻿
+Lightweight powders in the anti-shine core instantly dissolve excess oil",4.7,Foundation,Foundation
+Maybelline Dream Matte Mousse Foundation,14.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/dream-matte-mousse-found-10.png,https://well.ca/products/maybelline-dream-matte-mousse_3747.html,"Maybelline Dream Matte Mouse Foundation is a revolutionary air-soft mousse that provides perfecting coverage for 100% velvet-matte complexion. It's non-comedogenic, fragrance-free, dermatologist-tested, allergy-tested and ideal for normal to oily skin.For best results: Apply smoothly and evenly to your face and blend with your fingertips.﻿
 
- ",4.4,cream,foundation
-"Maybelline Mineral Power Natural Perfecting Powder Foundation",14.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/mineral-power-natural-pe-11.png,https://well.ca/products/maybelline-mineral-power-natural_5900.html?cat=582,"Why You'll Love ItMineral Power Powder Foundation with micro-minerals provides a more natural, healthier, luminous look.
+ ",4.4,Foundation,Foundation
+Maybelline Mineral Power Natural Perfecting Powder Foundation,14.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/mineral-power-natural-pe-11.png,https://well.ca/products/maybelline-mineral-power-natural_5900.html?cat=582,"Why You'll Love ItMineral Power Powder Foundation with micro-minerals provides a more natural, healthier, luminous look.
 Discover the natural power of micro-minerals:
-100% natural mica creates a more natural luminosity Complete, yet refined coverage Provides buildable, even coverage Preservative-free, talc-free, oil-free, fragrance-free Medium to Full Coverage",3.9,mineral,foundation
-"Maybelline Dream Velvet Foundation",18.49,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/dream-velvet-foundatio-12.png,https://well.ca/products/maybelline-dream-velvet-foundation_112738.html?cat=581,"This Maybelline Dream Velvet Foundation is a refreshing gel-whipped foundation that leaves complexion perfected and smooth with a velvety, soft-matte finish. Skin stays hydrated for 12 hours. Features:Maybelline’s first hydrating matte foundation for 100% velvet-smooth perfectionUnique gel-whipped formulaIdeal for normal to combination skin, medium coverage For best results apply Maybelline Dream Velvet Foundation using Maybelline Dream Blender",2.5,cream,foundation
-"Maybelline Superstay Better Skin Foundation ",14.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/superstay-better-skin-fo-13.png,https://well.ca/products/maybelline-superstay-better-skin_112548.html,"The Maybelline Superstay Better Skin Foundation reduces the appearance of spots, bumps, dullness and redness to give you brighter, smoother and more even skin. Features:Longwear that improves skin every minute you're in it: brighter, smoother and more even.With micro-flex technology and the antioxidant power of Actyl-C.Ideal for sensitive skin. Good for all skin types. Medium to full coverageHow to Apply: Apply evenly to your face and blend with your fingers.",3,liquid,foundation
-"Maybelline Dream Wonder Liquid Touch Foundation",14.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/dream-wonder-liquid-touc-14.png,https://well.ca/products/maybelline-dream-wonder-liquid-touch_96732.html,"Maybelline Dream Wonder Liquid Touch Foundation's breakthrough texture fuses with skin. A finish so impeccable, yet undetectable.Features:Exclusive dropperMedium to full coverage, ideal for normal skinFor Best Results: Shake well. Unscrew cap. Holding dropper vertically, allow foundation to drop onto fingertip. Apply to face as usual.",,liquid,foundation
-"Maybelline Dream Liquid Mousse",14.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/dream-liquid-mouss-15.png,https://well.ca/products/maybelline-dream-liquid-mousse_12303.html,"Airbrushed perfection made possible:Air-whipped liquid makeup for 100% poreless skin
+100% natural mica creates a more natural luminosity Complete, yet refined coverage Provides buildable, even coverage Preservative-free, talc-free, oil-free, fragrance-free Medium to Full Coverage",3.9,Foundation,Foundation
+Maybelline Dream Velvet Foundation,18.49,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/dream-velvet-foundatio-12.png,https://well.ca/products/maybelline-dream-velvet-foundation_112738.html?cat=581,"This Maybelline Dream Velvet Foundation is a refreshing gel-whipped foundation that leaves complexion perfected and smooth with a velvety, soft-matte finish. Skin stays hydrated for 12 hours. Features:Maybelline’s first hydrating matte foundation for 100% velvet-smooth perfectionUnique gel-whipped formulaIdeal for normal to combination skin, medium coverage For best results apply Maybelline Dream Velvet Foundation using Maybelline Dream Blender",2.5,Foundation,Foundation
+Maybelline Superstay Better Skin Foundation ,14.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/superstay-better-skin-fo-13.png,https://well.ca/products/maybelline-superstay-better-skin_112548.html,"The Maybelline Superstay Better Skin Foundation reduces the appearance of spots, bumps, dullness and redness to give you brighter, smoother and more even skin. Features:Longwear that improves skin every minute you're in it: brighter, smoother and more even.With micro-flex technology and the antioxidant power of Actyl-C.Ideal for sensitive skin. Good for all skin types. Medium to full coverageHow to Apply: Apply evenly to your face and blend with your fingers.",3,Foundation,Foundation
+Maybelline Dream Wonder Liquid Touch Foundation,14.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/dream-wonder-liquid-touc-14.png,https://well.ca/products/maybelline-dream-wonder-liquid-touch_96732.html,"Maybelline Dream Wonder Liquid Touch Foundation's breakthrough texture fuses with skin. A finish so impeccable, yet undetectable.Features:Exclusive dropperMedium to full coverage, ideal for normal skinFor Best Results: Shake well. Unscrew cap. Holding dropper vertically, allow foundation to drop onto fingertip. Apply to face as usual.",,Foundation,Foundation
+Maybelline Dream Liquid Mousse,14.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/dream-liquid-mouss-15.png,https://well.ca/products/maybelline-dream-liquid-mousse_12303.html,"Airbrushed perfection made possible:Air-whipped liquid makeup for 100% poreless skin
 
 Breakthrough finish cushions and smooths for the most flawless, luminous coverage
 Lightweight air-whipped formula blends to virtually eliminate pores and imperfections
-Innovative shade-match pump makes finding your perfect shade a dream",4.4,liquid,foundation
-"Maybelline FIT ME! Matte + Poreless Foundation",10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/fit-me-matte-poreless-f-16.png,https://well.ca/products/maybelline-fit-me-matte-poreless_100974.html,"Maybelline FIT ME! Matte + Poreless Foundation goes beyond  skin tone
+Innovative shade-match pump makes finding your perfect shade a dream",4.4,Foundation,Foundation
+Maybelline FIT ME! Matte + Poreless Foundation,10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/fit-me-matte-poreless-f-16.png,https://well.ca/products/maybelline-fit-me-matte-poreless_100974.html,"Maybelline FIT ME! Matte + Poreless Foundation goes beyond  skin tone
  matching to fit the unique texture issues of normal to oily skin for 
 the ultimate natural skin fit.
 
 While some foundations can exaggerate pores and oily skin, only Maybelline's 
 pore-minimizing foundation contains their genius blurring micro-powders 
 that erase pores and absorb oil for a naturally matte and 
-poreless-looking finish.Dermatologist and allergy tested.  Does not clog pores. Oil-free.",4.4,liquid,foundation
-"Maybelline Fit Me Foundation with SPF",10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/fit-me-foundation-with-s-17.png,https://well.ca/products/maybelline-fit-me-foundation-with_31187.html,"It’s face makeup that fits you!Features: No oils, no waxes, no nonsenseNatural, Light to medium coverage that leaves skin the way it was meant to be. Fresh, breathing, flawless.Exclusive transluscent base and lightweight pigments allow skin’s natural highs and lows to show through.New shades formulated specifically for women of color contain 
+poreless-looking finish.Dermatologist and allergy tested.  Does not clog pores. Oil-free.",4.4,Foundation,Foundation
+Maybelline Fit Me Foundation with SPF,10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/fit-me-foundation-with-s-17.png,https://well.ca/products/maybelline-fit-me-foundation-with_31187.html,"It’s face makeup that fits you!Features: No oils, no waxes, no nonsenseNatural, Light to medium coverage that leaves skin the way it was meant to be. Fresh, breathing, flawless.Exclusive transluscent base and lightweight pigments allow skin’s natural highs and lows to show through.New shades formulated specifically for women of color contain 
 revolutionary 5-D pigment technology to balance your skin’s authentic 
-tones and highlights.SPF 18",3.8,liquid,foundation
-"Maybelline Expert Wear Eye Shadow Quad ",8.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/expert-wear-eye-shadow-q-18.png,https://well.ca/products/maybelline-expert-wear-eye-shadow_79611.html,"Easy to use, lots to choose!Maybelline Expert Wear Eye Shadow 
+tones and highlights.SPF 18",3.8,Foundation,Foundation
+Maybelline Expert Wear Eye Shadow Quad ,8.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/expert-wear-eye-shadow-q-18.png,https://well.ca/products/maybelline-expert-wear-eye-shadow_79611.html,"Easy to use, lots to choose!Maybelline Expert Wear Eye Shadow 
 Quads have 4 coordinating shades with step by step application guide 
 makes shadow easier than ever. The eyeshadows glide on effortlessly with
  superior smoothness and the velvet-tip applicator blends without 
 tugging or pulling. Safe for sensitive eyes and contact lens wearers, 
-ophthalmologist-tested.For best results sweep the brush 4 times:Apply base color. Sweep shade on lid. Contour crease and blend. Line around eye.",4,eyeshadow,eyeshadow
-"Maybelline Eyestudio Color Tattoo Concentrated Crayon",10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eyestudio-color-tattoo-c-19.png,https://well.ca/products/maybelline-eyestudio-color-tattoo_114535.html,"Maybelline Eyestudio Color Tattoo Concentrated Crayons give you high-intensity color that looks vibrant all-day long.Features:Smooth, soft creamy finishPlayful intense colorsAll day tattoo tenacity. Playful color intensity. In an easy glide on crayon.",3,eyeshadow,eyeshadow
-"Maybelline The Nudes Eye Shadow Palette",17.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/the-nudes-eye-shadow-pal-20.png,https://well.ca/products/maybelline-the-nudes-eye-shadow_95144.html,"Maybelline The Nudes Eye Shadow Palette let's you create looks from day to night. Deep to light. So try it out and create your ideal eye look today!Features: 
+ophthalmologist-tested.For best results sweep the brush 4 times:Apply base color. Sweep shade on lid. Contour crease and blend. Line around eye.",4,Eyeshadow,Eyeshadow
+Maybelline Eyestudio Color Tattoo Concentrated Crayon,10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eyestudio-color-tattoo-c-19.png,https://well.ca/products/maybelline-eyestudio-color-tattoo_114535.html,"Maybelline Eyestudio Color Tattoo Concentrated Crayons give you high-intensity color that looks vibrant all-day long.Features:Smooth, soft creamy finishPlayful intense colorsAll day tattoo tenacity. Playful color intensity. In an easy glide on crayon.",3,Eyeshadow,Eyeshadow
+Maybelline The Nudes Eye Shadow Palette,17.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/the-nudes-eye-shadow-pal-20.png,https://well.ca/products/maybelline-the-nudes-eye-shadow_95144.html,"Maybelline The Nudes Eye Shadow Palette let's you create looks from day to night. Deep to light. So try it out and create your ideal eye look today!Features: 
 		
 			
 				13 looks in one Expert Wear eyeshadow palette
 Extraordinary Colour, from soft highlights, to medium bronze, to rich black
 From Maybelline's ultra-blendable pigments
-Long Wear",2,palette,eyeshadow
-"Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow Leather",8.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eye-studio-color-tattoo-21.png,https://well.ca/products/maybelline-eye-studio-color-tattoo_95143.html,"So rich. So creamy. Only Maybelline's cream gel eye shadow formula gets the look of couture leather so right!
+Long Wear",2,Eyeshadow,Eyeshadow
+Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow Leather,8.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eye-studio-color-tattoo-21.png,https://well.ca/products/maybelline-eye-studio-color-tattoo_95143.html,"So rich. So creamy. Only Maybelline's cream gel eye shadow formula gets the look of couture leather so right!
 		
 			
 				Dare to wear Maybelline Color Tattoo leather 24HR long wear eye shadow.Features: Ink technology creates 24HR wear shadow for our most intense, long-lasting color saturationCream eye shadow formula glides on without creasing and keeps color vibrantOphthalmologist-tested.  Safe for sensitive eyes and contact lens wearers
-		Shade Range:",4.3,eyeshadow,eyeshadow
-"Maybelline The Nudes Eyeshadow Palette in The Blushed Nudes",17.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/the-nudes-eyeshadow-pale-22.png,https://well.ca/products/maybelline-the-nudes-eyeshadow_107498.html,"Create looks from day to night and deep to light with Maybelline's The Blushed Nudes Eyeshadow Palette.Features:13 looks in one eyeshadow paletteExtraordinary colour from ultra-blendable pigmentsLong wear with sensual finish that lasts up to 12 hours",4.5,palette,eyeshadow
-"Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow",8.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eye-studio-color-tattoo-23.png,https://well.ca/products/maybelline-eye-studio-color-tattoo_50692.html,"Dare to wear 24HR shadow!Maybelline's Color Tattoo Cream Gel Shadow uses ink technology for their most intense, long-lasting colour saturation. The cream formula glides on without creasing and keeps colour vibrant.Ophthalmologist-tested. Safe for sensitive eyes and contact lens wearers.
+		Shade Range:",4.3,Eyeshadow,Eyeshadow
+Maybelline The Nudes Eyeshadow Palette in The Blushed Nudes,17.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/the-nudes-eyeshadow-pale-22.png,https://well.ca/products/maybelline-the-nudes-eyeshadow_107498.html,Create looks from day to night and deep to light with Maybelline's The Blushed Nudes Eyeshadow Palette.Features:13 looks in one eyeshadow paletteExtraordinary colour from ultra-blendable pigmentsLong wear with sensual finish that lasts up to 12 hours,4.5,Eyeshadow,Eyeshadow
+Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow,8.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eye-studio-color-tattoo-23.png,https://well.ca/products/maybelline-eye-studio-color-tattoo_50692.html,"Dare to wear 24HR shadow!Maybelline's Color Tattoo Cream Gel Shadow uses ink technology for their most intense, long-lasting colour saturation. The cream formula glides on without creasing and keeps colour vibrant.Ophthalmologist-tested. Safe for sensitive eyes and contact lens wearers.
                     
                     
                     
                         
                         For best results: With 
 fingertips, sweep all over eye from inner corner and work outwards. For
- added drama, darken as desired.              ",4.5,eyeshadow,eyeshadow
-"Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow ",8.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eye-studio-color-tattoo-24.png,https://well.ca/products/maybelline-eye-studio-color-tattoo_67270.html,"Dare to wear 24HR shadow!Maybelline's Color Tattoo Cream Gel 
+ added drama, darken as desired.              ",4.5,Eyeshadow,Eyeshadow
+Maybelline Eye Studio Color Tattoo 24HR Cream Gel Shadow ,8.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eye-studio-color-tattoo-24.png,https://well.ca/products/maybelline-eye-studio-color-tattoo_67270.html,"Dare to wear 24HR shadow!Maybelline's Color Tattoo Cream Gel 
 Shadow uses ink technology for their most intense, long-lasting shimmery metallic shades﻿. The cream formula glides on without creasing and keeps 
 colour vibrant.Ophthalmologist-tested. Safe for sensitive eyes and contact lens wearers.
                     
@@ -119,108 +119,108 @@ colour vibrant.Ophthalmologist-tested. Safe for sensitive eyes and contact lens 
                         
                         Shade Range: For best results: With 
 fingertips, sweep all over eye from inner corner and work outwards. For
- added drama, darken as desired.     ",4,eyeshadow,eyeshadow
-"Maybelline Line Express Eyeliner",7.29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/line-express-eyeliner-25.png,https://well.ca/products/maybelline-line-express-eyeliner_9738.html,"Maybelline Line Express Eyeliner's intense color formula + smart tip smudger makes this liner glide on smoothly and is easy to apply with just one stroke.Features: Creamy formula delivers intense colorContour smudger makes blending easyAll-day wearSafe for sensitive eyes and ophthalmologist-testedContact lens safe",4.5,pencil,eyeliner
-"Maybelline Unstoppable Eyeliner",8.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/unstoppable-eyeliner-26.png,https://well.ca/products/maybelline-unstoppable-eyeliner_3737.html,"Unstoppable Eyeliner allows ultra-smooth application for defined lines and eyes.
+ added drama, darken as desired.     ",4,Eyeshadow,Eyeshadow
+Maybelline Line Express Eyeliner,7.29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/line-express-eyeliner-25.png,https://well.ca/products/maybelline-line-express-eyeliner_9738.html,Maybelline Line Express Eyeliner's intense color formula + smart tip smudger makes this liner glide on smoothly and is easy to apply with just one stroke.Features: Creamy formula delivers intense colorContour smudger makes blending easyAll-day wearSafe for sensitive eyes and ophthalmologist-testedContact lens safe,4.5,Eyeliner,Eyeliner
+Maybelline Unstoppable Eyeliner,8.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/unstoppable-eyeliner-26.png,https://well.ca/products/maybelline-unstoppable-eyeliner_3737.html,"Unstoppable Eyeliner allows ultra-smooth application for defined lines and eyes.
 It is a self-sharpening mechanical pencil, and will hold your look in place all day long.
 Waterproof.
-Ophthalmologist tested, contact lens safe for sensitive eyes.",4.3,pencil,eyeliner
-"Maybelline Color Show Kohl Liner",5.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-show-kohl-liner-27.png,https://well.ca/products/maybelline-color-show-kohl-liner_101020.html,"Maybelline Color Show Kohl Liner is the hottest new way to create statement eyes!The brightest colors. The easiest glide. Creamy, rich color has never 
-been this precise!",,pencil,eyeliner
-"Maybelline Eye Studio Master Graphic in Striking Black",11.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eye-studio-master-graphi-28.png,https://well.ca/products/maybelline-eye-studio-master-graphic_112723.html,"Eye Studio Master Graphic Liquid Liner from Maybelline New York. Love the graphic look? This genius eyeliner automatically draws the boldest line with the sharpest edge! Features:Automatically draw the boldest line with the sharpest edgePitch black finishUse the flat side for bold line. Use the sharp tip for the edges",,liquid,eyeliner
-"Maybelline EyeStudio Master Precise Ink Pen Eyeliner",11.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eyestudio-master-precise-29.png,https://well.ca/products/maybelline-eyestudio-master-precise_40535.html,"Experience the new generation of liquid liner from Maybelline!              Ink technology keeps pigments super-saturatedSpring cap keeps the formula freshMost precise line for lasting intensity                                                    Safe for sensitive eyes and ophthalmologist-testedContact lens safeFor Best Results: 1. Start at inner corner of upper eye. Flare outward. 2. Create the sharpest design, uniquely your own.",4,liquid,eyeliner
-"Maybelline Line Stiletto Ultimate Precision Liquid Eyeliner",10.29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/line-stiletto-ultimate-p-30.png,https://well.ca/products/maybelline-line-stiletto-ultimate_17295.html,"Easily Creates Slender Lines
+Ophthalmologist tested, contact lens safe for sensitive eyes.",4.3,Eyeliner,Eyeliner
+Maybelline Color Show Kohl Liner,5.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-show-kohl-liner-27.png,https://well.ca/products/maybelline-color-show-kohl-liner_101020.html,"Maybelline Color Show Kohl Liner is the hottest new way to create statement eyes!The brightest colors. The easiest glide. Creamy, rich color has never 
+been this precise!",,Eyeliner,Eyeliner
+Maybelline Eye Studio Master Graphic in Striking Black,11.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eye-studio-master-graphi-28.png,https://well.ca/products/maybelline-eye-studio-master-graphic_112723.html,Eye Studio Master Graphic Liquid Liner from Maybelline New York. Love the graphic look? This genius eyeliner automatically draws the boldest line with the sharpest edge! Features:Automatically draw the boldest line with the sharpest edgePitch black finishUse the flat side for bold line. Use the sharp tip for the edges,,Eyeliner,Eyeliner
+Maybelline EyeStudio Master Precise Ink Pen Eyeliner,11.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eyestudio-master-precise-29.png,https://well.ca/products/maybelline-eyestudio-master-precise_40535.html,"Experience the new generation of liquid liner from Maybelline!              Ink technology keeps pigments super-saturatedSpring cap keeps the formula freshMost precise line for lasting intensity                                                    Safe for sensitive eyes and ophthalmologist-testedContact lens safeFor Best Results: 1. Start at inner corner of upper eye. Flare outward. 2. Create the sharpest design, uniquely your own.",4,Eyeliner,Eyeliner
+Maybelline Line Stiletto Ultimate Precision Liquid Eyeliner,10.29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/line-stiletto-ultimate-p-30.png,https://well.ca/products/maybelline-line-stiletto-ultimate_17295.html,"Easily Creates Slender Lines
 
     Rich, Even Color
     All-Day Wear
     Smooth Glide Felt Tip
     Flexible tip guides on smoothly for the most precise control.
-    All-day wear up to 8 hours",4,liquid,eyeliner
-"Maybelline Liquid Eyeliner",10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/liquid-eyeliner-31.png,https://well.ca/products/maybelline-liquid-eyeliner_3739.html,"Waterproof Liquid Eyeliner draws intense lining in an instant.
+    All-day wear up to 8 hours",4,Eyeliner,Eyeliner
+Maybelline Liquid Eyeliner,10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/liquid-eyeliner-31.png,https://well.ca/products/maybelline-liquid-eyeliner_3739.html,"Waterproof Liquid Eyeliner draws intense lining in an instant.
 It glides on smoothly for even coverage.
 The firm felt tip applicator allows easy control.
-Waterproof, all-day wear.",4.2,liquid,eyeliner
-"Maybelline Eye Studio Lasting Drama Gel Eyeliner",11.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eye-studio-lasting-drama-32.png,https://well.ca/products/maybelline-eye-studio-lasting-drama_23247.html,"Maybelline Eye Studio Lasting Drama Gel Eyeliner gives you smudge-proof lines that are waterproof for 24 hours. Features:            Oil-free formula holds highly concentrated pigments in a clear gel baseSmudge-proof and waterproof for 24 hoursMost intense line for lasting drama                                                    Safe for sensitive eyes and ophthalmologist-testedContact lens safe
-		Removes easily with Expert Eyes® Moisturizing Eye Makeup Remover.Maybelline Eye Studio Lasting Drama Gel Eyeliner is one of our 10 Makeup Must Haves.  See the full list on The Well. ",4.4,liquid,eyeliner
-"Maybelline Color Show Nail Lacquer Jewels ",4.49,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-show-nail-lacquer-33.png,https://well.ca/products/maybelline-color-show-nail-lacquer_96730.html,"Maybelline Color Show Nail Lacquer Jewels collection features jeweled nail lacquer top coats straight from the shows!Features:Adorns your nails with textured gem effectsTrendy top coat nail art designsEasy-flow brushFormaldehyde, DBP and Toluene freeShade Range: (left to right: Mosaic Prism, Platinum Adorn)For Best Results:First apply a clear base coat to prevent your nails from yellowing and to help your nail color last longer. Choose a base shade and with one sweep, paint the first line of nail polish up the center of your nail starting from the base to the tip.For the cleanest look, be sure to leave a small space at the base of the nail. Then apply nail color to the rest of the nail. Pick your textured top coat and paint over your base shade for a street styled nail art look.",3,nail_polish,nail_polish
-"Maybelline Color Show Nail Lacquer Veils ",4.49,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-show-nail-lacquer-34.png,https://well.ca/products/maybelline-color-show-nail-lacquer_96731.html,"Maybelline Color Show Nail Lacquer Veils collection gives you subtle shimmers to refined glitters in colours straight from the shows!Features:Trendy top coat nail art designsEasy-flow brushFormaldehyde, DBP and Toluene freeShade Range: (left to right: Amethyst Aura, Rose Mirage, Crystal Disguise)For Best Results:First
+Waterproof, all-day wear.",4.2,Eyeliner,Eyeliner
+Maybelline Eye Studio Lasting Drama Gel Eyeliner,11.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/eye-studio-lasting-drama-32.png,https://well.ca/products/maybelline-eye-studio-lasting-drama_23247.html,"Maybelline Eye Studio Lasting Drama Gel Eyeliner gives you smudge-proof lines that are waterproof for 24 hours. Features:            Oil-free formula holds highly concentrated pigments in a clear gel baseSmudge-proof and waterproof for 24 hoursMost intense line for lasting drama                                                    Safe for sensitive eyes and ophthalmologist-testedContact lens safe
+		Removes easily with Expert Eyes® Moisturizing Eye Makeup Remover.Maybelline Eye Studio Lasting Drama Gel Eyeliner is one of our 10 Makeup Must Haves.  See the full list on The Well. ",4.4,Eyeliner,Eyeliner
+Maybelline Color Show Nail Lacquer Jewels ,4.49,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-show-nail-lacquer-33.png,https://well.ca/products/maybelline-color-show-nail-lacquer_96730.html,"Maybelline Color Show Nail Lacquer Jewels collection features jeweled nail lacquer top coats straight from the shows!Features:Adorns your nails with textured gem effectsTrendy top coat nail art designsEasy-flow brushFormaldehyde, DBP and Toluene freeShade Range: (left to right: Mosaic Prism, Platinum Adorn)For Best Results:First apply a clear base coat to prevent your nails from yellowing and to help your nail color last longer. Choose a base shade and with one sweep, paint the first line of nail polish up the center of your nail starting from the base to the tip.For the cleanest look, be sure to leave a small space at the base of the nail. Then apply nail color to the rest of the nail. Pick your textured top coat and paint over your base shade for a street styled nail art look.",3,Nail Polish,Nail Polish
+Maybelline Color Show Nail Lacquer Veils ,4.49,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-show-nail-lacquer-34.png,https://well.ca/products/maybelline-color-show-nail-lacquer_96731.html,"Maybelline Color Show Nail Lacquer Veils collection gives you subtle shimmers to refined glitters in colours straight from the shows!Features:Trendy top coat nail art designsEasy-flow brushFormaldehyde, DBP and Toluene freeShade Range: (left to right: Amethyst Aura, Rose Mirage, Crystal Disguise)For Best Results:First
  apply a clear base coat to prevent your nails from yellowing and to 
 help your nail color last longer. Choose a base shade and with one 
 sweep, paint the first line of nail polish up the center of your nail 
 starting from the base to the tip.For the cleanest look, be sure
  to leave a small space at the base of the nail. Then apply nail color 
 to the rest of the nail. Pick your textured top coat and paint over your
- base shade for a street styled nail art look.",4,nail_polish,nail_polish
-"Maybelline Color Show Nail Lacquer ",4.49,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-show-nail-lacquer-35.png,https://well.ca/products/maybelline-color-show-nail-lacquer_78068.html,"High fashion meets high-art. With Maybelline Color Show Nail Lacquer PolkaDots Collection you get 3D nail design for your fingertips!Features: 
-Creates Hollywood-worthy special effectsChip-resistant formula Easy-flow brushFormaldehyde, DBP and Toluene freeShade Range:",3.3,nail_polish,nail_polish
-"Maybelline Color Sensational Vivid Matte Liquid Lip Colour",12.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-vivid-36.png,https://well.ca/products/maybelline-color-sensational-vivid_114538.html,"Bold, vivid color glides easily onto lips for a velvety matte finish with Maybelline Color Sensational Vivid Matte Liquid Lip Colour. 
+ base shade for a street styled nail art look.",4,Nail Polish,Nail Polish
+Maybelline Color Show Nail Lacquer ,4.49,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-show-nail-lacquer-35.png,https://well.ca/products/maybelline-color-show-nail-lacquer_78068.html,"High fashion meets high-art. With Maybelline Color Show Nail Lacquer PolkaDots Collection you get 3D nail design for your fingertips!Features: 
+Creates Hollywood-worthy special effectsChip-resistant formula Easy-flow brushFormaldehyde, DBP and Toluene freeShade Range:",3.3,Nail Polish,Nail Polish
+Maybelline Color Sensational Vivid Matte Liquid Lip Colour,12.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-vivid-36.png,https://well.ca/products/maybelline-color-sensational-vivid_114538.html,"Bold, vivid color glides easily onto lips for a velvety matte finish with Maybelline Color Sensational Vivid Matte Liquid Lip Colour. 
 Formula is comfortable and creamy with a smooth feel upon application. 
 With full color coverage, the result is a rich, intense lip look in a 
-range of colors from Nude Flush to Electric Pink to Vivid Violet.Features: Lip color glides on smooth to a matte finishInfused with pure pigments for high-impact colorCreamy liquid base for a soft, cushiony feel",,lipstick,lipstick
-"Maybelline Color Sensational Rebel Bloom Lipcolour ",9.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-rebel-37.png,https://well.ca/products/maybelline-color-sensational-rebel_101920.html,"Maybelline Color Sensational® Rebel Bloom lipstick offers vivacious pastels in a super-saturated lipcolour. Enjoy the kicky bouquet of lip colors in 
+range of colors from Nude Flush to Electric Pink to Vivid Violet.Features: Lip color glides on smooth to a matte finishInfused with pure pigments for high-impact colorCreamy liquid base for a soft, cushiony feel",,Lipstick,Lipstick
+Maybelline Color Sensational Rebel Bloom Lipcolour ,9.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-rebel-37.png,https://well.ca/products/maybelline-color-sensational-rebel_101920.html,"Maybelline Color Sensational® Rebel Bloom lipstick offers vivacious pastels in a super-saturated lipcolour. Enjoy the kicky bouquet of lip colors in 
 pinks, reds and mauves.  Features:Super-saturated pigments take fresh picked pastels to a new bright
 Never dull, washed out or shy
 Honey nectar adds a sumptuous feel
 
 		Application: Apply lipcolor starting in the center of your upper lip. Work
  from the center to the outer edges of your lip, following the contours 
-of your mouth. Then glide across the entire bottom lip.",3,lipstick,lipstick
-"Maybelline Lip Studio Color Blur ",11.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/lip-studio-color-blur-38.png,https://well.ca/products/maybelline-lip-studio-color-blur_106565.html,"Maybelline's Lip Studio Color Blur is a unique cream matte pencil with vivid colour.  The blurring smudger allows you to create your look from full on bold to softly blurred.Features:The cream matte pencil feels extremely smooth and comfortable on lips The blurring smudger means you can create your own looks from full-on bold to softly blurredColor Blur comes in many shades ranging from vivids to neutralsHow to Use: To achieve the softly blurred look, apply colour in the center of your top and bottom lips. Using the smudger, gently blur the colour out towards the edges of your top lip and then bottom lip.",,lipstick,lipstick
-"Maybelline Color Sensational The Buffs Lipcolour",9.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-the-bu-39.png,https://well.ca/products/maybelline-color-sensational-the_88857.html,"Raw. Real. Pigments explode with sensuous impact…sensational! Maybelline Color Sensational The Buffs Lipcolour have true nude lip color pigments for honest flesh tone color. This range has it all, from blushing beige, to bronze, to espresso.
+of your mouth. Then glide across the entire bottom lip.",3,Lipstick,Lipstick
+Maybelline Lip Studio Color Blur ,11.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/lip-studio-color-blur-38.png,https://well.ca/products/maybelline-lip-studio-color-blur_106565.html,"Maybelline's Lip Studio Color Blur is a unique cream matte pencil with vivid colour.  The blurring smudger allows you to create your look from full on bold to softly blurred.Features:The cream matte pencil feels extremely smooth and comfortable on lips The blurring smudger means you can create your own looks from full-on bold to softly blurredColor Blur comes in many shades ranging from vivids to neutralsHow to Use: To achieve the softly blurred look, apply colour in the center of your top and bottom lips. Using the smudger, gently blur the colour out towards the edges of your top lip and then bottom lip.",,Lipstick,Lipstick
+Maybelline Color Sensational The Buffs Lipcolour,9.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-the-bu-39.png,https://well.ca/products/maybelline-color-sensational-the_88857.html,"Raw. Real. Pigments explode with sensuous impact…sensational! Maybelline Color Sensational The Buffs Lipcolour have true nude lip color pigments for honest flesh tone color. This range has it all, from blushing beige, to bronze, to espresso.
 		For Best Results: Apply your nude lip color lipstick by starting in the center 
 of your upper lip. Work from the center to the outer edges of your lip, 
 following the contours of your mouth. Then glide across the entire 
-bottom lipShade Range:",4.8,lipstick,lipstick
-"Maybelline Color Sensational Vivids Lipcolour",9.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-vivids-40.png,https://well.ca/products/maybelline-color-sensational-vivids_66103.html,"With Maybelline Colour Sensational Vivids Lipcolour bright goes gorgeous, never garish!Get brighter color from Maybelline's exclusive vivid pigments.﻿ Plus get creamier feel from nourishing honey nectar.﻿ Features: Be bright and gorgeousExclusive Vivid colors are brighterHoney nectar formula nourishes lips﻿For Best Results: Apply lipcolor starting in the center of your upper lip. Work from the center to the outer edges of your lip, following the contours of your mouth. Then glide across the entire bottom lip.﻿Shade Range:",5,lipstick,lipstick
-"Maybelline Color Sensational Creamy Mattes Lipcolour ",9.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-creamy-41.png,https://well.ca/products/maybelline-color-sensational-creamy_100322.html,"Maybelline Creamy Mattes by Color Sensational deliver a burst of bold lip color and a surge of creamy texture in great make-a-statement shades, for mattes your lips will love to wear!Features: Lips slip into this creamy matteMattifying cream pure pigments and three precious oilsMake-a-statement shades",5,lipstick,lipstick
-"Maybelline Color Sensational Lipcolour",9.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-lipcol-42.png,https://well.ca/products/maybelline-color-sensational_14537.html,"Maybelline Colour Sensational Lipcolour will make you fall in love with color, all over again! Features: 
+bottom lipShade Range:",4.8,Lipstick,Lipstick
+Maybelline Color Sensational Vivids Lipcolour,9.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-vivids-40.png,https://well.ca/products/maybelline-color-sensational-vivids_66103.html,"With Maybelline Colour Sensational Vivids Lipcolour bright goes gorgeous, never garish!Get brighter color from Maybelline's exclusive vivid pigments.﻿ Plus get creamier feel from nourishing honey nectar.﻿ Features: Be bright and gorgeousExclusive Vivid colors are brighterHoney nectar formula nourishes lips﻿For Best Results: Apply lipcolor starting in the center of your upper lip. Work from the center to the outer edges of your lip, following the contours of your mouth. Then glide across the entire bottom lip.﻿Shade Range:",5,Lipstick,Lipstick
+Maybelline Color Sensational Creamy Mattes Lipcolour ,9.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-creamy-41.png,https://well.ca/products/maybelline-color-sensational-creamy_100322.html,"Maybelline Creamy Mattes by Color Sensational deliver a burst of bold lip color and a surge of creamy texture in great make-a-statement shades, for mattes your lips will love to wear!Features: Lips slip into this creamy matteMattifying cream pure pigments and three precious oilsMake-a-statement shades",5,Lipstick,Lipstick
+Maybelline Color Sensational Lipcolour,9.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/color-sensational-lipcol-42.png,https://well.ca/products/maybelline-color-sensational_14537.html,"Maybelline Colour Sensational Lipcolour will make you fall in love with color, all over again! Features: 
 
 Crisper color from pure pigments 
 Creamier feel from nourishing honey nectar 
 Lipcolor so rich, so stunning… it’s sensational Incredible colour range, from pinks, plums, reds and bronze
 
- ",4.2,lipstick,lipstick
-"Maybelline Volum'Express Falsies Big Eyes Mascara",12.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/volumexpress-falsies-big-43.png,https://well.ca/products/maybelline-volumexpress-falsies-big_78175.html,"2 brushes. 2x more impact!Now get bigger eyes with 360 degrees of false 
+ ",4.2,Lipstick,Lipstick
+Maybelline Volum'Express Falsies Big Eyes Mascara,12.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/volumexpress-falsies-big-43.png,https://well.ca/products/maybelline-volumexpress-falsies-big_78175.html,"2 brushes. 2x more impact!Now get bigger eyes with 360 degrees of false 
 lash glam volume! Upper lashes get over-the-top glam with the upper 
 brush, while the lower brush grabs every tiny lower lash for a full 
 circle effect.For best results: Apply the Upper Brush against the top lid lashes and sweep from
  root to tip until a clean, voluminous look is achieved, followed by the
  lower lash line using the lower Micro Brush. Do not let dry between 
 coats. Removes easily with soap and water or with Maybelline® Clean 
-Express!™ Classic Eye Makeup Remover.",4.5,mascara,mascara
-"Maybelline Define-A-Lash Lengthening & Defining Mascara",10.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/definealash-lengthening-44.png,https://well.ca/products/maybelline-define-a-lash-lengthening_3744.html,"Define-A-Lash Lengthening & Defining Mascara is a zero-clump mascara that creates stunning length and clean definition. The flexible brush is shaped to the lash to elongate and define lashes, one by one. The built-in wiper contours brush to remove excess formula, ensuring clean deposit on lashes. There is no smudging, smearing or flaking, and the smooth, lightweight formula feels comfortable on lashes.Allergy tested, ophthalmologist tested and contact lens safe.",4.4,mascara,mascara
-"Maybelline Great Lash - Clear",7.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/great-lash-clear-45.png,https://well.ca/products/maybelline-great-lash-clear_3752.html,"Great Lash Clear Washable Mascara is a crystal clear formula that gives a softer, fuller look.The gentle brush separates lashes into a perfect fan. It contains panthenol to condition lashes, glycerin for a soft feel. This is great for shaping and setting brows. Contact lens safe, opthalmologist tested.
- ",3.8,mascara,mascara
-"Maybelline Great Lash Big Mascara",7.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/great-lash-big-mascar-46.png,https://well.ca/products/maybelline-great-lash-big-mascara_15818.html,"Live Big! Great Lash Big has a Bigger Brush for Great Big Live-It-Up Lashes!
+Express!™ Classic Eye Makeup Remover.",4.5,Mascara,Mascara
+Maybelline Define-A-Lash Lengthening & Defining Mascara,10.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/definealash-lengthening-44.png,https://well.ca/products/maybelline-define-a-lash-lengthening_3744.html,"Define-A-Lash Lengthening & Defining Mascara is a zero-clump mascara that creates stunning length and clean definition. The flexible brush is shaped to the lash to elongate and define lashes, one by one. The built-in wiper contours brush to remove excess formula, ensuring clean deposit on lashes. There is no smudging, smearing or flaking, and the smooth, lightweight formula feels comfortable on lashes.Allergy tested, ophthalmologist tested and contact lens safe.",4.4,Mascara,Mascara
+Maybelline Great Lash - Clear,7.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/great-lash-clear-45.png,https://well.ca/products/maybelline-great-lash-clear_3752.html,"Great Lash Clear Washable Mascara is a crystal clear formula that gives a softer, fuller look.The gentle brush separates lashes into a perfect fan. It contains panthenol to condition lashes, glycerin for a soft feel. This is great for shaping and setting brows. Contact lens safe, opthalmologist tested.
+ ",3.8,Mascara,Mascara
+Maybelline Great Lash Big Mascara,7.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/great-lash-big-mascar-46.png,https://well.ca/products/maybelline-great-lash-big-mascara_15818.html,"Live Big! Great Lash Big has a Bigger Brush for Great Big Live-It-Up Lashes!
 
 The Great Big Brush provides a bigger, bolder lash effect
 Great buildable formula still conditions as it thickens with even greater intensity
-No clumps or globs",4,mascara,mascara
-"Maybelline Great Lash Mascara",7.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/great-lash-mascar-47.png,https://well.ca/products/maybelline-great-lash-mascara_3735.html,"Great Lash Waterproof Mascara conditions as it thickens lashes. The lash-doubling formula glides on smoothly to build great-looking smudge-proof lashes. The lash-building brush makes it easy to get a full lash look without clumps. Hypoallergenic and contact lens safe.
-Allure 2008 Reader's Choice Award Winner for drugstore mascara.",4.2,mascara,mascara
-"Maybelline Volum' Express Colossal Mascara",9.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/volum-express-colossal-m-48.png,https://well.ca/products/maybelline-volum-express-colossal_7663.html,"Why You'll Love It
+No clumps or globs",4,Mascara,Mascara
+Maybelline Great Lash Mascara,7.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/great-lash-mascar-47.png,https://well.ca/products/maybelline-great-lash-mascara_3735.html,"Great Lash Waterproof Mascara conditions as it thickens lashes. The lash-doubling formula glides on smoothly to build great-looking smudge-proof lashes. The lash-building brush makes it easy to get a full lash look without clumps. Hypoallergenic and contact lens safe.
+Allure 2008 Reader's Choice Award Winner for drugstore mascara.",4.2,Mascara,Mascara
+Maybelline Volum' Express Colossal Mascara,9.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/volum-express-colossal-m-48.png,https://well.ca/products/maybelline-volum-express-colossal_7663.html,"Why You'll Love It
 
 Creates 9X the volume, instantly.
 Patented MegaBrush + Collagen Formula plump lashes one by one 
 Dramatic Volume with no clumps 
-Washable",4.5,mascara,mascara
-"Maybelline Illegal Length Fiber Extensions Mascara",11.49,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/illegal-length-fiber-ext-49.png,https://well.ca/products/maybelline-illegal-length-fiber_84357.html,"Build 4mm of measurable extensions! Features: Fiber-fix brush has 6 different contact points with each lash for optimal fiber placementBreakthrough formula contains fibers up to 4mm in lengthSealing formula stretches lashes and seals fibers to lashesWashable, also available in waterproof formula 
+Washable",4.5,Mascara,Mascara
+Maybelline Illegal Length Fiber Extensions Mascara,11.49,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/illegal-length-fiber-ext-49.png,https://well.ca/products/maybelline-illegal-length-fiber_84357.html,"Build 4mm of measurable extensions! Features: Fiber-fix brush has 6 different contact points with each lash for optimal fiber placementBreakthrough formula contains fibers up to 4mm in lengthSealing formula stretches lashes and seals fibers to lashesWashable, also available in waterproof formula 
 For Best Results: Extend lashes upward with Fiber-Fix brush, from root to tip. 
 Only a few strokes necessary. For best results, do not let dry between 
 coats.  Removes easily with soap and water or Maybelline® Expert Eyes® 
-100% Oil-Free Eye Makeup Remover.",4,mascara,mascara
-"Maybelline Volum' Express The Rocket Mascara",10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/volum-express-the-rocket-50.png,https://well.ca/products/maybelline-volum-express-the-rocket_84350.html,"Explosive Volume in Rocket Time! 8X Bigger, Smoother.
+100% Oil-Free Eye Makeup Remover.",4,Mascara,Mascara
+Maybelline Volum' Express The Rocket Mascara,10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/volum-express-the-rocket-50.png,https://well.ca/products/maybelline-volum-express-the-rocket_84350.html,"Explosive Volume in Rocket Time! 8X Bigger, Smoother.
 
 Now, the most explosive, beautiful lashes ever! Maybelline's patented supersonic 
 brush with micro bristles loads on big, sleek volume instantly.
 
-The fast-glide formula keeps lashes smooth. Zero clumps!",,mascara,mascara
-"Maybelline Great Lash Lots of Lashes Mascara",7.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/great-lash-lots-of-lashe-51.png,https://well.ca/products/maybelline-great-lash-lots-of-lashes_50739.html,"Introducing a Great Lash innovation - Great Lash Lots of Lashes!The favourite Maybelline mascara now gives the look of more lashes than ever, thanks to the exclusive Great Little Grabber Brush. In just one swipe, the Grabber Brush easily reaches all lashes - even 
+The fast-glide formula keeps lashes smooth. Zero clumps!",,Mascara,Mascara
+Maybelline Great Lash Lots of Lashes Mascara,7.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/great-lash-lots-of-lashe-51.png,https://well.ca/products/maybelline-great-lash-lots-of-lashes_50739.html,"Introducing a Great Lash innovation - Great Lash Lots of Lashes!The favourite Maybelline mascara now gives the look of more lashes than ever, thanks to the exclusive Great Little Grabber Brush. In just one swipe, the Grabber Brush easily reaches all lashes - even 
 in the corners - for a multiplied lash look without the clumps. The result? Great lashes with lots of impact and not a lot of work.For best results: sweep brush from root to 
 tip of lashes. Continue building volume until the desired lash look is 
 achieved. Do not let dry between coats. Removes easily with soap and 
-water or eye makeup remover.",4.2,mascara,mascara
-"Maybelline Lash Stiletto Ultimate Length Mascara",10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/lash-stiletto-ultimate-l-52.png,https://well.ca/products/maybelline-lash-stiletto-ultimate_17287.html,"The only mascara that does for lashes what stilettos do for legs.
+water or eye makeup remover.",4.2,Mascara,Mascara
+Maybelline Lash Stiletto Ultimate Length Mascara,10.99,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/lash-stiletto-ultimate-l-52.png,https://well.ca/products/maybelline-lash-stiletto-ultimate_17287.html,"The only mascara that does for lashes what stilettos do for legs.
 
     The Grip & Extend brush grasps each lash and coats from every angle
     Elastic formula stretches lashes for provocative length
@@ -228,5 +228,5 @@ water or eye makeup remover.",4.2,mascara,mascara
     Contact lens safe and Ophthalmologist tested
     Waterproof 
 
- ",4,mascara,mascara
-"Maybelline Volum'Express the Falsies Mascara",9.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/volumexpress-the-falsies-53.png,https://well.ca/products/maybelline-volumexpress-the-falsies_26311.html,"False lash glam in a tube, instantly!The Falsies Mascara delivers a false lash look, giving you a full set of voluminous, bold, fanned-out lashes and the appearance of no gaps from any angle.The Pro-Keratin Fiber enriched formula is designed to deliver immediate results, distributing volume and visible intensity to your lashes. The spoon-shaped brush helps fan lashes out.The Falsies Mascara is designed to give the appearance of no gaps and spaces. In a wink, lashes you didn’t even know you had look visibly thickened!",4,mascara,mascara
+ ",4,Mascara,Mascara
+Maybelline Volum'Express the Falsies Mascara,9.79,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/makeup/volumexpress-the-falsies-53.png,https://well.ca/products/maybelline-volumexpress-the-falsies_26311.html,"False lash glam in a tube, instantly!The Falsies Mascara delivers a false lash look, giving you a full set of voluminous, bold, fanned-out lashes and the appearance of no gaps from any angle.The Pro-Keratin Fiber enriched formula is designed to deliver immediate results, distributing volume and visible intensity to your lashes. The spoon-shaped brush helps fan lashes out.The Falsies Mascara is designed to give the appearance of no gaps and spaces. In a wink, lashes you didn’t even know you had look visibly thickened!",4,Mascara,Mascara

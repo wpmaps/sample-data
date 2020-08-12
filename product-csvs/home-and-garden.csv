@@ -1,4 +1,4 @@
-sku,title,description,vendor,type,tags,price,images
+sku,title,description,vendor,tab,tags,price,images
 clay-plant-pot,Clay Plant Pot,<p>Classic blown clay pot for plants</p>,Company 123,Outdoor,"Pot, Plants",9.99,https://burst.shopifycdn.com/photos/single-sprout-in-a-pot_925x.jpg
 copper-light,Copper Light,<p>Stylish copper bedside light</p>,Company 123,Indoor,"Copper, Bedroom",59.99,https://burst.shopifycdn.com/photos/copper-light-in-bedroom_925x.jpg
 cream-sofa,Cream Sofa,<p>Comfortable cream sofa with wooden base</p>,Company 123,Indoor,"Couch, Wood",500,https://burst.shopifycdn.com/photos/condominium-interior-livingroom_925x.jpg
