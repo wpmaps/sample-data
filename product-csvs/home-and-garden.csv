@@ -1,21 +1,21 @@
-sku,title,description,vendor,tab,tags,price,images
-clay-plant-pot,Clay Plant Pot,<p>Classic blown clay pot for plants</p>,Company 123,Outdoor,"Pot, Plants",9.99,https://burst.shopifycdn.com/photos/single-sprout-in-a-pot_925x.jpg
-copper-light,Copper Light,<p>Stylish copper bedside light</p>,Company 123,Indoor,"Copper, Bedroom",59.99,https://burst.shopifycdn.com/photos/copper-light-in-bedroom_925x.jpg
-cream-sofa,Cream Sofa,<p>Comfortable cream sofa with wooden base</p>,Company 123,Indoor,"Couch, Wood",500,https://burst.shopifycdn.com/photos/condominium-interior-livingroom_925x.jpg
-antique-drawers,Antique Drawers,<p>Antique wooden chest of drawers</p>,Company 123,Indoor,"Antique, Bedroom",250,https://burst.shopifycdn.com/photos/babys-room_925x.jpg
-white-bed-clothes,White Bed Clothes,<p>Sleek white bed clothes</p>,Company 123,Indoor,Bed,29.99,https://burst.shopifycdn.com/photos/bright-hotel-room-bed_925x.jpg
-pink-armchair,Pink Armchair,<p>Stylish pink armchair</p>,Company 123,Indoor,Chair,750,https://burst.shopifycdn.com/photos/soft-pink-cushioned-armchair-in-stately-salon_925x.jpg
-wooden-outdoor-table,Wooden Outdoor Table,<p>Chic wooden outdoor garden table</p>,Rustic LTD,Outdoor,"Wood, Garden",99.99,https://burst.shopifycdn.com/photos/cafe-patio_925x.jpg
-brown-throw-pillows,Brown Throw Pillows,<p>Stylish brown throw pillows</p>,Rustic LTD,Indoor,Pillows,19.99,https://burst.shopifycdn.com/photos/bedroom-bed-with-brown-throw-pillows_925x.jpg
-white-ceramic-pot,White Ceramic Pot,<p>Homemade white ceramic flower pot</p>,Rustic LTD,Indoor,"Pot, Plants",15.99,https://burst.shopifycdn.com/photos/house-plant-in-white-pot_925x.jpg
-yellow-watering-can,Yellow watering can,<p>Vintage vibrant watering can</p>,Rustic LTD,Outdoor,Plants,40.99,https://burst.shopifycdn.com/photos/flowers-in-yellow-watering-can_925x.jpg
-gardening-hand-trowel,Gardening hand trowel,<p>Metal gardening hand trowel with wooden handle</p>,Rustic LTD,Outdoor,Plants,10.99,https://burst.shopifycdn.com/photos/spring-gardening-set-up_925x.jpg
-biodegradable-cardboard-pots,Biodegradable cardboard pots,<p>Biodegradable outdoor cardboard pots</p>,Rustic LTD,Outdoor,"Garden, Plants",10,https://burst.shopifycdn.com/photos/potted-seeds_925x.jpg
-grey-sofa,Grey Sofa,<p>Large four seater grey sofa</p>,Rustic LTD,Indoor,Sofa,29.99,https://burst.shopifycdn.com/photos/large-grey-sofa-by-brick-wall_925x.jpg
-wooden-outdoor-slats,Wooden outdoor slats,<p>Wooden outdoor fencing slats</p>,Rustic LTD,Outdoor,"Wood, Garden",25.99,https://burst.shopifycdn.com/photos/house-plant-on-wooden-slat-wall_925x.jpg
-wooden-fence,Wooden Fence,<p>Wooden garden fence</p>,Rustic LTD,Outdoor,"Garden, Wood",200,https://burst.shopifycdn.com/photos/picket-fence-flowers_925x.jpg
-yellow-sofa,Yellow Sofa,<p>Two seater yellow sofa with wooden legs</p>,Home Sweet Home,Indoor,Sofa,99.99,https://burst.shopifycdn.com/photos/yellow-couch-by-black-and-white-mural_925x.jpg
-knitted-throw-pillows,Knitted Throw Pillows,<p>Homemade knitted throw pillows in a variety of colors</p>,Home Sweet Home,Indoor,Pillows,19.99,https://burst.shopifycdn.com/photos/yellow-sofa-with-throw-pillows_925x.jpg
-vanilla-candle,Vanilla candle,<p>Vanilla scent candle in jar</p>,Home Sweet Home,Indoor,Candle,15.99,https://burst.shopifycdn.com/photos/diy-organic-candle_925x.jpg
-black-bean-bag,Black Beanbag,<p>Black leather beanbag</p>,Company 123,Indoor,"Black, Leather",69.99,https://burst.shopifycdn.com/photos/comfortable-living-room-cat_925x.jpg
-bedside-table,Bedside Table,<p>Wooden bedside table</p>,Company 123,Indoor,"Wood, Bedroom",69.99,https://burst.shopifycdn.com/photos/dark-wall-bedside-table_925x.jpg
+sku,title,description,categories,tab,item_type,price,images,type,stores,amazon,walmart,target
+copper-light,Copper Light,Stylish copper bedside light,Bedroom,Bedroom,Indoor,59.99,https://burst.shopifycdn.com/photos/copper-light-in-bedroom_925x.jpg,3,"2, 3, 8, 12, 14",,,
+cream-sofa,Cream Sofa,Comfortable cream sofa with wooden base,Couch,Couch,Indoor,500,https://burst.shopifycdn.com/photos/condominium-interior-livingroom_925x.jpg,4,"2, 4, 6, 9, 18",https://www.amazon.com/Bloem-20-56108-Fiskars-Ariana-Self-Watering/dp/B005KQFSVU/ref=sr_1_2?dchild=1&keywords=Clay+Plant+Pot&qid=1606388688&sr=8-2,https://www.walmart.com/ip/5-5-Clay-Pots-Great-for-Plants-and-Crafts/150223887,https://www.target.com/p/suncast-atlin-18-inch-resin-round-decorative-flower-pot-planter-java-2-pack/-/A-80366241#lnk=sametab
+antique-drawers,Antique Drawers,Antique wooden chest of drawers,Bedroom,Bedroom,Indoor,250,https://burst.shopifycdn.com/photos/babys-room_925x.jpg,3,"3, 7, 9, 13, 20",,,
+white-bed-clothes,White Bed Clothes,Sleek white bed clothes,Bed,Bed,Indoor,29.99,https://burst.shopifycdn.com/photos/bright-hotel-room-bed_925x.jpg,2,"13, 16, 17, 18, 19",,,
+pink-armchair,Pink Armchair,Stylish pink armchair,Chair,Chair,Indoor,750,https://burst.shopifycdn.com/photos/soft-pink-cushioned-armchair-in-stately-salon_925x.jpg,4,"3, 5, 7, 16, 18",https://www.amazon.com/Bloem-20-56108-Fiskars-Ariana-Self-Watering/dp/B005KQFSVU/ref=sr_1_2?dchild=1&keywords=Clay+Plant+Pot&qid=1606388688&sr=8-2,https://www.walmart.com/ip/5-5-Clay-Pots-Great-for-Plants-and-Crafts/150223887,https://www.target.com/p/suncast-atlin-18-inch-resin-round-decorative-flower-pot-planter-java-2-pack/-/A-80366241#lnk=sametab
+brown-throw-pillows,Brown Throw Pillows,Stylish brown throw pillows,Pillows,Pillows,Indoor,19.99,https://burst.shopifycdn.com/photos/bedroom-bed-with-brown-throw-pillows_925x.jpg,3,"1, 2, 6, 18, 20",,,
+white-ceramic-pot,White Ceramic Pot,Homemade white ceramic flower pot,Pot,Pot,Indoor,15.99,https://burst.shopifycdn.com/photos/house-plant-in-white-pot_925x.jpg,1,"1, 5, 10, 12, 15",,,
+grey-sofa,Grey Sofa,Large four seater grey sofa,Sofa,Sofa,Indoor,29.99,https://burst.shopifycdn.com/photos/large-grey-sofa-by-brick-wall_925x.jpg,1,"2, 3, 4, 10, 13",,,
+yellow-sofa,Yellow Sofa,Two seater yellow sofa with wooden legs,Sofa,Sofa,Indoor,99.99,https://burst.shopifycdn.com/photos/yellow-couch-by-black-and-white-mural_925x.jpg,4,"1, 5, 11, 14, 17",,,
+knitted-throw-pillows,Knitted Throw Pillows,Homemade knitted throw pillows in a variety of colors,Pillows,Pillows,Indoor,19.99,https://burst.shopifycdn.com/photos/yellow-sofa-with-throw-pillows_925x.jpg,1,"6, 9, 10, 14, 16",,,
+vanilla-candle,Vanilla candle,Vanilla scent candle in jar,Candle,Candle,Indoor,15.99,https://burst.shopifycdn.com/photos/diy-organic-candle_925x.jpg,3,"2, 3, 4, 11, 15",,,
+black-bean-bag,Black Beanbag,Black leather beanbag,Sofa,Sofa,Indoor,69.99,https://burst.shopifycdn.com/photos/comfortable-living-room-cat_925x.jpg,2,"1, 5, 6, 10, 11",,,
+bedside-table,Bedside Table,Wooden bedside table,Bedroom,Bedroom,Indoor,69.99,https://burst.shopifycdn.com/photos/dark-wall-bedside-table_925x.jpg,2,"2, 3, 9, 11, 18",,,
+clay-plant-pot,Clay Plant Pot,Classic blown clay pot for plants,Plants,Plants,Outdoor,9.99,https://burst.shopifycdn.com/photos/single-sprout-in-a-pot_925x.jpg,2,"1, 6, 9, 11, 14",https://www.amazon.com/Bloem-20-56108-Fiskars-Ariana-Self-Watering/dp/B005KQFSVU/ref=sr_1_2?dchild=1&keywords=Clay+Plant+Pot&qid=1606388688&sr=8-2,https://www.walmart.com/ip/5-5-Clay-Pots-Great-for-Plants-and-Crafts/150223887,https://www.target.com/p/suncast-atlin-18-inch-resin-round-decorative-flower-pot-planter-java-2-pack/-/A-80366241#lnk=sametab
+wooden-outdoor-table,Wooden Outdoor Table,Chic wooden outdoor garden table,Table,Table,Outdoor,99.99,https://burst.shopifycdn.com/photos/cafe-patio_925x.jpg,3,"3, 6, 13, 14, 19",,,
+yellow-watering-can,Yellow watering can,Vintage vibrant watering can,Plants,Plants,Outdoor,40.99,https://burst.shopifycdn.com/photos/flowers-in-yellow-watering-can_925x.jpg,3,"1, 7, 13, 18, 19",,,
+gardening-hand-trowel,Gardening hand trowel,Metal gardening hand trowel with wooden handle,Plants,Plants,Outdoor,10.99,https://burst.shopifycdn.com/photos/spring-gardening-set-up_925x.jpg,4,"1, 2, 6, 14, 20",,,
+biodegradable-cardboard-pots,Biodegradable cardboard pots,Biodegradable outdoor cardboard pots,Plants,Plants,Outdoor,10,https://burst.shopifycdn.com/photos/potted-seeds_925x.jpg,4,"5, 10, 11, 12, 17",,,
+wooden-outdoor-slats,Wooden outdoor slats,Wooden outdoor fencing slats,Fence,Fence,Outdoor,25.99,https://burst.shopifycdn.com/photos/house-plant-on-wooden-slat-wall_925x.jpg,2,"4, 8, 11, 17, 20",,,
+wooden-fence,Wooden Fence,Wooden garden fence,Fence,Fence,Outdoor,200,https://burst.shopifycdn.com/photos/picket-fence-flowers_925x.jpg,1,"1, 6, 8, 17, 20",,,

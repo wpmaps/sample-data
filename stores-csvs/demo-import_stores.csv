@@ -1,37 +1,50 @@
-title,description,street,city,state,zip,country,lat,lng,phone,fax,email,website,is_disabled,categories,marker_id,logo_image,description_2,products,logo
-Amanda Food Court,,45 North Street,Uitenhage,Eastern Cape,5043,South Africa,-33.749771,25.405823,041 111 3964,,,,,Restaurants,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Aqua Food Store,,"26 Northriding, Lorraine Manor",Port Elizabeth,Eastern Cape,1234,South Africa,-33.97506,25.513332,213 882 8888,,,,,Restaurants,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Astro Club,,"15 Heartly Road, Parsons Hill",Port Elizabeth,Eastern Cape,45553,South Africa,-33.947128,25.591169,123 226 2222,,,,,Fitness | Nightlife,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Barry Mason Pool Services,,"34 Saddlewood, Louis Michael Drive, Lovemore Heights",Port Elizabeth,Eastern Cape,33422,South Africa,-33.99213,25.531601,123 888 5555,,,,,Local Services,1,test.jpg,,,http://dev.agilelogix.com/logos/batman.png
-Bid-Bon Development,,"274 Kragga Kamma Road, Lorraine",Port Elizabeth,Eastern Cape,23452,South Africa,-33.96524,25.50242,041 888 3534,,,,,Local Services,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Deon'S Pool Maintenance Servics,,"1 Demurville, Lorraine",Port Elizabeth,Eastern Cape,23455,South Africa,-33.968891,25.52002,072 888 1607,,,,,Local Services,1,,cool description,,http://dev.agilelogix.com/logos/batman.png
-East Coast Pools,,"17 Reith Street, Sidwell",Port Elizabeth,Eastern Cape,5043,South Africa,-33.92194,25.595169,041 888 4916,,,,,Local Services,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Mica Food Court,,48 Church Street,Graaf Reinet,Eastern Cape,1234,South Africa,-32.253212,24.536243,049 888 2640,,,,,Restaurants,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Haggie's Swimpool Services & Supplies ,,50 Mosel Road,Uitenhage,Eastern Cape,45553,South Africa,-33.752365,25.404612,041 888 6343,,,,,Local Services,1,,,,http://dev.agilelogix.com/logos/batman.png
-Heritage Rock Hotel,,"Idle  Wydle, Sardinia Bay Road, Lovemore Park",Port Elizabeth,Eastern Cape,33422,South Africa,-34.014511,25.523298,082 888 9282,,,,,Local Services,1,,additional description,,http://dev.agilelogix.com/logos/coffee.jpeg
-Norman's Hotel,,15 Vincent Road,East London,Eastern Cape,23452,South Africa,-32.978962,27.901928,043 888 8445,,,,,Restaurants,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Pelican Spa,,"143 Heugh Road, Walmer",Port Elizabeth,Eastern Cape,23455,South Africa,-33.980839,25.59514,041 888 6453,,,,,Beauty and Spas,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Pool and Spa Centre,,"6 Boshof Street, Westering",Port Elizabeth,Eastern Cape,5043,South Africa,-33.944561,25.522751,041 888 8005,,,,,Fitness,1,,,,http://dev.agilelogix.com/logos/batman.png
-Pool Maintenance Services,,"100 Dijon Road, Lorraine",Port Elizabeth,Eastern Cape,1234,South Africa,-33.976929,25.529341,041 888 4927,,,,,Local Services,1,,Custom additional,,http://dev.agilelogix.com/logos/batman.png
-Sandstone Pools,,"5 Yale Road, Blue Water Bay",Port Elizabeth,Eastern Cape,45553,South Africa,-33.857689,25.62956,072 888 0505,,,,,Fitness,1,,,,http://dev.agilelogix.com/logos/batman.png
-Royal Autos,,"61 Heugh Road, Walmer",Port Elizabeth,Eastern Cape,33422,South Africa,-33.976898,25.605591,041 888 8117,,,,,Arts & Entertainment,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Grahamstown Restaurant,,4 Hill Street,Grahamstown,Eastern Cape,23452,South Africa,-33.308353,26.525585,046 888 4320,,,,,Restaurants,1,,,,http://dev.agilelogix.com/logos/batman.png
-Port Alfred Restaurant,,88 Albany Road,Port Alfred,Eastern Cape,23455,South Africa,-33.586407,26.907701,046 888 8618,,,,,Restaurants,1,,,,http://dev.agilelogix.com/logos/batman.png
-JIM Beauty Saloon,,Jacaranda Street,Jeffreys Bay,Eastern Cape,5043,South Africa,-34.033333,24.916668,042 888 0813,,,,,Beauty and Spas,1,,,,http://dev.agilelogix.com/logos/logo-5.png
-Sliming Center,,"28 6th Avenue, Walmer",Port Elizabeth,Eastern Cape,1234,South Africa,-33.978668,25.594669,041 888 6568,,,,,Fitness,1,,,,http://dev.agilelogix.com/logos/logo-5.png
-Artcraft Centre,,"43 3rd Avenue, Newton Park",Port Elizabeth,Eastern Cape,45553,South Africa,-33.947609,25.568867,041 888 1257,,,,,Arts & Entertainment,1,,,,http://dev.agilelogix.com/logos/logo-5.png
-Tams Hyperstore,,5 High Street,Cradock,Eastern Cape,33422,South Africa,-32.175652,25.621719,048 888 3022,,,,,Appliances,1,,,,http://dev.agilelogix.com/logos/logo-5.png
-The Pool Lab,,"17 Young Road, Mill Park",Port Elizabeth,Eastern Cape,23452,South Africa,-33.965435,25.59059,083 888 1181,,,,,Local Services,1,,,,http://dev.agilelogix.com/logos/logo-5.png
-Brandons Club,,"Leaping Frog Shopping Centre, Cnr William Nicol & Mulbarton Road, Fourways",Johannesburg,Gauteng,23455,South Africa,-26.005112,28.020357,011 888 1224,,,,,Nightlife,1,,,,http://dev.agilelogix.com/logos/logo-5.png
-Amanzi Club,,"46 Longfellow Street, Ridgeway",Johannesburg,Gauteng,5043,South Africa,-26.253469,27.996401,011 888 4569,,,,,Nightlife,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-White Shop,50% Clothes available,Central Park,Denver,CO,60204,United States,37.3990371,-105.6721263,333-3333-333,222-2222-22,abc@abc.com,http://google.com,,For The Home,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Tires Shop Center,ABC Tires,315 West Main Street,Walla Walla,WA,45553,United States,46.0645809,-118.3430209,333-333-33,11-11-11,this.zubair@gmail.com,http://tires.com/us,,Auto,12,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Best West Food,,2020 Oregon St, Berkeley, CA,94703,United States,37.857113,-122.2672497,041 111 3964,,,,,Restaurants,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Big Fish Food,,920 Heinz Ave, Berkeley, CA,94710,United States,37.8535336,-122.2903762,213 882 8888,,,,,Restaurants,1,,,,http://dev.agilelogix.com/logos/coffee.jpeg
-Big Ben Club,,3263 Browns Valley Road,Napa,CA,,United States,38.3043298,-122.3296145,123 226 2222,,,,,Fitness | Nightlife,1,,,,http://dev.agilelogix.com/logos/mu.png
-Hair Saloon,,1491 Lincoln Ave,Calistoga,CA,,United States,38.5803165,-122.5790298,123 888 5555,,,,,Local Services,1,,,,http://dev.agilelogix.com/logos/mu.png
-Car Club Autos,,2815 Diamond St, San Francisco, CA,94131,United States,37.7340832,-122.4336521,041 888 3534,,,,,Local Services,1,,,,http://dev.agilelogix.com/logos/mu.png
-Wood Center,,620 G ST, Davis, CA,95616,United States,38.5495343,-121.7398663,072 888 1607,,,,,Local Services,1,,,,http://dev.agilelogix.com/logos/mu.png
-Creek Center,,3615 Mt Diablo BLVD, Lafayette, CA,94549,United States,37.8906975,-122.1244815,041 888 4916,,,,,Local Services,1,,,,http://dev.agilelogix.com/logos/mu.png
-Cal Mart,,200 Caledonia ST, Sausalito, CA,94965,United States,37.859356,-122.4862508,,,,,,,,,,,
-Canyon Market,,2200 Mission ST, San Francisco, CA,94110,United States,37.7616816,-122.4195756,,,,,,,,,,,
+title,description,street,city,state,zip,country,lat,lng,phone,fax,email,website,products,logo
+Amanda Food Court,,16 saint Joseph Blvd,Port Ewen,NY,12466,United States,41.895937,-73.975429,336-854-5536,,support@wpmaps.com,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/apollostack.png
+Aqua Food Store,,4395 Dardanelle Drive,Orlando,FL,32808,United States,28.5803545,-81.4384996,336-854-5537,,support@wpmaps.com,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/apollostack.png
+Astro Club,,20910 Harmon Road,Fort Worth,TX,76177,United States,32.9384143,-97.3237711,336-854-5538,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/apollostack.png
+Barry Mason Pool Services,,6336 New Authon Road,Andrews,TX,79714,United States,32.3035858,-102.5404378,336-854-5539,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/vue.png
+Bid-Bon Development,,201 Crutchfield Ave,Nashville,TN,37210,United States,36.136506,-86.731003,336-854-5540,,support@wpmaps.com,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/lodash.png
+Deon'S Pool Maintenance Servics,,1478 East Street,Pittsfield,MA,1201,United States,42.4542256,-73.2147933,336-854-5541,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/vue.png
+East Coast Pools,,5215 New Utrecht Ave ,Brooklyn,NY,11219,United States,40.6335243,-73.994917,336-854-5542,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/lodash.png
+Mica Food Court,,141B Millwell Drive,Maryland Heights,MO,63043,United States,38.7192859,-90.4372971,336-854-5543,,support@wpmaps.com,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/lodash.png
+Haggie's Swimpool Services & Supplies ,,5 Wilson Ave,Spring Valley,NY,10977,United States,41.1361643,-74.0308655,336-854-5544,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/vue.png
+Heritage Rock Hotel,,2454 S US HWY 421,Harlan,KY,40831,United States,36.8257601,-83.3227587,336-854-5545,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/apollostack.png
+Norman's Hotel,,276 N El Camino Real ,Oceanside,CA,92058,United States,33.2308894,-117.3280815,336-854-5546,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/lodash.png
+Pelican Spa,,P.O. Box 971205,Orem,UT,84097,United States,40.2757714,-111.6743957,336-854-5547,,support@wpmaps.com,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/lodash.png
+Pool and Spa Centre,,5495 Wilson Street,RIVERSIDE,CA,92509,United States,34.0189468,-117.38142,336-854-5548,,,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/vue.png
+Pool Maintenance Services,,7 Prague Place ,Lakewood,NJ,8701,United States,40.0457193,-74.200745,336-854-5549,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/vue.png
+Sandstone Pools,,7002 D Newington Road,Lorton,VA,22079,United States,38.7361742,-77.184027,336-854-5550,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/vue.png
+Royal Autos,,5221 W Market Street,Greensboro,NC,27409,United States,36.0703772,-79.8822267,336-854-5551,,support@wpmaps.com,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/apollostack.png
+Grahamstown Restaurant,,111 Kimball Way,South San Francisco,CA,94080,United States,37.6507709,-122.3910637,336-854-5552,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/vue.png
+Port Alfred Restaurant,,511 34th Street ,Catlettsburg,KY,41129,United States,38.4060014,-82.6026866,336-854-5553,,support@wpmaps.com,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/vue.png
+JIM Beauty Saloon,,53 Oakley Ave ,Odenville,AL,35120,United States,33.683483,-86.3955715,336-854-5554,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/elastic-logo.png
+Sliming Center,,2233 NE 244th Ave,Wood Village,OR,97060,United States,45.5396001,-122.4136205,336-854-5555,,,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/elastic-logo.png
+Artcraft Centre,,457 NJ-17 N,Mahwah,NJ,7430,United States,41.0789578,-74.1486314,336-854-5556,,support@wpmaps.com,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/elastic-logo.png
+Tams Hyperstore,,1155 Marsh Street ,Valparaiso,IN,46385,United States,41.458038,-87.074718,336-854-5557,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/elastic-logo.png
+The Pool Lab,,35 Ernest Valeri Road B,Buzzards Bay,MA,2532,United States,41.7594224,-70.5781444,336-854-5558,,,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/elastic-logo.png
+Brandons Club,,2444 Ridgeway Blvd,Manchester,NJ,8759,United States,40.0174532,-74.3070045,336-854-5559,,support@wpmaps.com,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/elastic-logo.png
+Amanzi Club,,12301 East Marginal Way South ,Seattle,WA,98168,United States,47.4933033,-122.2864836,336-854-5560,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/python.png
+Cosmic Solar Systems,,1585 Lakeland Ave,Bohemia,NY,11716,United States,40.7827364,-73.1114943,336-854-5561,222-2222-22,support@wpmaps.com,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/python.png
+Craig's Workshop,,11104 Sparkleberry Drive,Fort Myers,FL,33913,United States,26.5824452,-81.7910263,336-854-5562,11-11-11,,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/python.png
+Dundee Lawnmower Centre,,4400 NW 74th Ave,Miami,FL,33166,United States,25.81481,-80.319283,336-854-5563,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/python.png
+Ellisras Bou & Hardeware,,1 Blue Hill Plaza,Pearl River,NY,10965,United States,41.0486631,-74.0067845,336-854-5564,,support@wpmaps.com,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/python.png
+Graaf Reinet Mica,,6 Trade Road,Plattsburgh,NY,12901,United States,44.7190099,-73.4699656,336-854-5565,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/electron.png
+Heritage Gardens,,400 Gregory Poole Lane,Mebane,NC,27302,United States,36.0700243,-79.3056228,336-854-5566,,support@wpmaps.com,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/electron.png
+Howards Pool Centre,,7807 Alafia Ridge Road ,River View,FL,33569,United States,27.8724665,-82.2991857,336-854-5567,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/electron.png
+Konstruktica,,480 Edsel Drive,Richmond Hill,GA,31324,United States,31.9414288,-81.3147712,336-854-5568,,support@wpmaps.com,https://google.com,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/electron.png
+Mr Lawnmower & Pool,,1681 S Olden Ave,Trenton,NJ,8610,United States,40.2060287,-74.711439,336-854-5569,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/elastic-logo.png
+Norkem Hardware & Pool Supplies,,230 Route 109,Farmingdale,NY,11735,United States,40.7195641,-73.4158571,336-854-5570,,support@wpmaps.com,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/elastic-logo.png
+Pitstop Oudshoorn,,284 Valley View Drive,Endicott,NY,13760,United States,42.066449,-76.132053,336-854-5571,,support@wpmaps.com,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/python.png
+Pool Warehouse,,1611 W. San Bernardino Road,Covina,CA,91722,United States,34.089822,-117.9235729,336-854-5572,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/electron.png
+Pool & Spa Louis Trichardt,,4500 Fuller Drive,Irving,TX,75038,United States,32.868113,-96.9473309,336-854-5573,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/elastic-logo.png
+Pool Clear,,4635 Crossroads Park Drive,Liverpool,NY,13088,United States,43.123336,-76.1951279,336-854-5574,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/apollostack.png
+Poolcraft Blackheath,,2540 Walden Ave,Cheektowaga,NY,14225,United States,42.9085992,-78.741965,336-854-5575,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/apollostack.png
+Poolcraft Kensington,,"520 Bean Drive, ",Williston,ND,58801,United States,48.1500513,-103.5998363,336-854-5576,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/vue.png
+Ealing Hospital,,9707 Green Park Industrial Drive,St. Louis,MO,63123,United States,38.5293874,-90.327191,336-854-5577,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/lodash.png
+Epsom General Hospital,,1407 Westinghouse Boulevard,Charlotte,NC,28273,United States,35.1221737,-80.9360665,336-854-5578,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/vue.png
+Forth Valley Hospital,,619 East Sam Houston Parkway South,Pasadena,TX,77503,United States,29.6950399,-95.1512977,336-854-5579,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/lodash.png
+Friarage Hospital ,,333 Corporate Drive,Grantsville,MD,21536,United States,39.6873383,-79.147809,336-854-5580,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/electron.png
+Frimley Park Hospital,,1080 Trump Road NW,Carrollton,OH,44615,United States,40.5922727,-81.0965482,336-854-5581,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/electron.png
+Gartnavel Hospital,,700 W. Main Street,Annville,PA,17003,United States,40.3258463,-76.5294945,336-854-5582,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/elastic-logo.png
+Goring Hall Hospital,,2571 Cortez Street,Oxnard,CA,93031,United States,34.2323241,-119.1682372,336-854-5583,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/vue.png
+"Diana, Princess of Wales Hospital",,1580 Gabler Road,Chambersburg,PA,17201,United States,39.9616841,-77.6763747,336-854-5584,,,,,https://raw.githubusercontent.com/wpmaps/sample-data/master/logo-images/elastic-logo.png

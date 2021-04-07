@@ -1,171 +1,108 @@
-title,price,images,tab,categories
-"Swatch Men's Watch With Leather Strap, Green",39,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-mens-stainless-st-0.png,Swatch,Swatch
-Seiko Women's Tressia Japanese Quartz,28,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/seiko-womens-tressia-jap-1.png,Seiko,Seiko
-Casio Men's,12,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-mens-2.png,Casio,Casio
-Men's Watch Unisex Minimalist Watch Waterproof,20,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/mens-watch-unisex-minima-3.png,Casio,Casio
-Casio Women's MQ BLL Classic Black Resin Band Watch,40,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-womens-mq-bll-clas-4.png,Casio,Casio
-"Swatch Classic Quartz Silicone Strap, White",27,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-classic-quartz-sil-5.png,Swatch,Swatch
-Gucci Swiss Quartz Gold Tone,22,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-swiss-quartz-gold-t-6.png,Gucci,Gucci
-Swatch Skin Quartz Movement Blue Dial,16,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-skin-quartz-moveme-7.png,Swatch,Swatch
-Gucci Steel Case Dial With Bees Indexes,27,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-steel-case-dial-wit-8.png,Gucci,Gucci
-Citizen Watches Minnie Mouse,19,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-minnie-mo-9.png,Citizen,Citizen
-Michael Kors Slim Runway Three Hand Watch,44,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-slim-runway-10.png,Michael,Michael
-Michael Kors Wren Chronograph Watch,35,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-wren-chronog-11.png,Michael,Michael
-"Men’s Military Watch, Dual Display Waterproof",41,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/mens-military-watch-d-12.png,Michael,Michael
-Fossil Q Men's Nate Hybrid Smartwatch,38,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-q-mens-nate-stain-13.png,Fossil,Fossil
-Swatch Windy Dune GE,20,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-windy-dune-ge-14.png,Swatch,Swatch
-Omega Constellation Mens Watch,37,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-blue-15.png,Omega,Omega
-Fossil Women's Izzy Casual Quartz Watch,32,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-izzy-stain-16.png,Fossil,Fossil
-Gucci Quartz Casual Silver Toned WatchModel YA,30,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-quartz-stainless-st-17.png,Gucci,Gucci
-Omega De Ville Prestige Automatic Ladies Watch,32,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-de-ville-prestige-a-18.png,Omega,Omega
-Bulova Women's P Diamond Accented Quartz Watch,33,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-p-stainles-19.png,Bulova,Bulova
-Swatch Skin Quartz Movement Pink Dial Unisex Watch SFE,32,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-skin-quartz-moveme-20.png,Swatch,Swatch
-COULAX Smart Watch,15,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/coulax-smart-watch-21.png,Coulax,Coulax
-Gucci Swiss Quartz Gold Tone And Leather Dress WatchModel YA,36,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-swiss-quartz-gold-t-22.png,Gucci,Gucci
-Swatch Sir Blue GN,31,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-sir-blue-gn-23.png,Swatch,Swatch
-"Casio Women's Pro Trek Quartz Watch With Resin Strap, Pink",38,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-womens-pro-trek-qu-24.png,Casio,Casio
-Fossil Womens Tailor ES,20,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-tailor-es-25.png,Fossil,Fossil
-Omega,10,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-26.png,Omega,Omega
-Bulova Women's Diamonds Quartz Watch With Strap,41,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-diamonds-q-27.png,Bulova,Bulova
-Bulova Women's L Bracelet Silver White Dial Watch,17,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-l-bracelet-28.png,Bulova,Bulova
-Gucci Quartz Toned Women's WatchModel YA,14,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-quartz-stainless-st-29.png,Gucci,Gucci
-Seiko Women's Ladies Dress Japanese Quartz Watch With Strap,16,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/seiko-womens-ladies-dres-30.png,Seiko,Seiko
-Timex Carriage By Timex CC Womens Watch CC,18,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/timex-carriage-by-timex-c-31.png,Timex,Timex
-Men's Omega Seamaster Watch,19,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/mens-omega-seamaster-sta-32.png,Omega,Omega
-Citizen Women's Drive Japanese Quartz Watch,21,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-drive-sta-33.png,Citizen,Citizen
-Seiko Women's Two Tone Watch,40,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/seiko-womens-sut-ladies-34.png,Seiko,Seiko
-"Casio Data Bank Quartz Watch With Resin Strap, Beige",32,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-data-bank-quartz-wa-35.png,Casio,Casio
-Omega Constellation Leather Strap Men's Watch,32,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-globe-36.png,Omega,Omega
-Omega De Ville Tresor Silver Dial Unisex Watch,19,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-de-ville-tresor-sil-37.png,Omega,Omega
-Michael Kors Wren Multifunction Watch,16,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-wren-stainle-38.png,Michael,Michael
-Omega Constellation Alligator Ladies Watch,38,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-purpl-39.png,Omega,Omega
-Omega Seamaster Automatic Winding Stainless Belt,36,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-seamaster-aqua-terr-40.png,Omega,Omega
-Gucci Swiss Quartz Gold Tone WatchModel YA,11,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-swiss-quartz-gold-t-41.png,Gucci,Gucci
-"Swatch Women's Quartz Watch With Strap, Silver",13,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-womens-quartz-wat-42.png,Swatch,Swatch
-Casio Women's LAWA Daily Alarm Digital Watch,45,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-womens-lawa-daily-43.png,Casio,Casio
-Gucci Women's G Timeless Watch Quartz Sapphire Crystal YA,27,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-womens-g-timeless-44.png,Gucci,Gucci
-"Bulova Women's Swarovski Crystal Quartz Watch With Strap, Silver",42,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-swarovski-45.png,Bulova,Bulova
-Michael Kors Women's Lauryn Three Hand Quartz Movement Watch,28,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-womens-laur-46.png,Michael,Michael
-Fossil Women's Carlie Mini Dress Quartz Watch,35,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-carlie-min-47.png,Fossil,Fossil
-Gucci G Frame Pastel Dial Ladies Satin Watch YA,30,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-g-frame-pastel-blue-48.png,Gucci,Gucci
-"Swatch Irony Quartz Rubber Strap, Blue",24,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-irony-stainless-st-49.png,Swatch,Swatch
-"Swatch Big Bold Quartz Silicone Strap, Grey",29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-big-bold-quartz-si-50.png,Swatch,Swatch
-Citizen Watches Women's EM A Drive,39,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-womens-e-51.png,Citizen,Citizen
-Gucci G Timeless Black Moonphase Dial Ladies Watch YA,17,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-g-timeless-black-mo-52.png,Gucci,Gucci
-Gucci Grip Mm GG Engraved Watch YA,19,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-grip-mm-stainless-s-53.png,Gucci,Gucci
-Fossil Women's Virginia Quartz Dress Quartz Watch,29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-virginia-q-54.png,Fossil,Fossil
-"Swatch Energy Boost Quartz Silicone Strap, White",42,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-energy-boost-quart-55.png,Swatch,Swatch
-Omega De Ville Prestige Co Axial,13,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-de-ville-prestige-c-56.png,Omega,Omega
-Seiko Women's SUP Two Tone Watch,25,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/seiko-womens-sup-two-ton-57.png,Seiko,Seiko
-"Citizen Women's Quartz Watch, EJ E",24,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-quartz-st-58.png,Citizen,Citizen
-Citizen Watches Women's FE A Eco Drive,37,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-womens-f-59.png,Citizen,Citizen
-"Swatch Men's Quartz Watch With Silicone Strap, Blue",37,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-mens-quartz-watch-60.png,Swatch,Swatch
-Fossil Women's Georgia Mini And Leather Casual Quartz Watch,44,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-georgia-mi-61.png,Fossil,Fossil
-Michael Kors Slim Runway Three Hand Watch,17,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-slim-runway-62.png,Michael,Michael
-Swatch Originals Red Rebel Unisex Watch SUOR,20,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-originals-red-rebe-63.png,Swatch,Swatch
-Citizen Watches Women's EW D Eco Drive,12,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-womens-e-64.png,Citizen,Citizen
-Swatch Originals Quartz Movement Blue Dial Unisex Watch SUON,16,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-originals-quartz-m-65.png,Swatch,Swatch
-COULAX Smart Watch,37,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/coulax-smart-watch-66.png,Coulax,Coulax
-Casio BGR Baby G Women's Watch Light Mint Mm Resin,17,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-bgr-baby-g-womens-67.png,Casio,Casio
-Gucci Interlocking Quartz Metal And Gold Tone Women's Watch Model YA,44,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-interlocking-quartz-68.png,Gucci,Gucci
-"Bulova Women's Diamonds Quartz Watch With Gold Tone Strap, Model P",16,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-diamonds-q-69.png,Bulova,Bulova
-Swatch Unisex SUOZ Originals Analog Display Swiss Quartz White Watch,34,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-unisex-suoz-origin-70.png,Swatch,Swatch
-Swatch Women's Watch PNB,13,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-womens-watch-pnb-71.png,Swatch,Swatch
-"Casio Illuminator Quartz Watch With Resin Strap, Blue Yellow",11,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-illuminator-stainle-72.png,Casio,Casio
-Fossil Women's Scarlette Glitz Quartz Watch,33,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-scarlette-73.png,Fossil,Fossil
-Fossil Womens Serena AM,42,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-serena-am-74.png,Fossil,Fossil
-Citizen Watches Women's FE L Eco Drive Silhouette Crystal,39,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-womens-f-75.png,Citizen,Citizen
-Swatch Skindoro Quartz Movement Gold Dial Unisex Watch SYXGM,41,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-skindoro-quartz-mo-76.png,Swatch,Swatch
-"Swatch BAU Quartz Silicone Strap, Blue",43,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-bau-quartz-silicon-77.png,Swatch,Swatch
-Citizen Watches Womens FB D Eco Drive,12,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-womens-fb-78.png,Citizen,Citizen
-Fossil Men's Nate Chronograph Quartz Watch,42,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-mens-nate-stainle-79.png,Fossil,Fossil
-Swatch Azulbaya GL,25,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-azulbaya-gl-80.png,Swatch,Swatch
-Swatch Piege SUSB,45,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-piege-susb-81.png,Swatch,Swatch
-Gucci S Women's Rectangular Metal Sunglasses Gold Pink Mm,27,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-s-womens-rectangul-82.png,Gucci,Gucci
-Swatch Black Reflexion White Dial Unisex Rubber Watch YGS,18,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-black-reflexion-wh-83.png,Swatch,Swatch
-"Swatch Tech Mode Quartz Silicone Strap, Blue",27,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-tech-mode-quartz-s-84.png,Swatch,Swatch
-"Citizen Women's Quartz Two Tone Watch With Date, EU A",36,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-quartz-tw-85.png,Citizen,Citizen
-Swatch Originals Quartz Movement White Dial Ladies Watch LR,45,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-originals-quartz-m-86.png,Swatch,Swatch
-Citizen LTR Ladies Watch,36,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-ltr-ladies-watch-87.png,Citizen,Citizen
-Seiko Women's SUT Two Tone Watch,13,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/seiko-womens-sut-stainle-88.png,Seiko,Seiko
-"Citizen Women's Quartz Watch With Date, EU P",18,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-quartz-st-89.png,Citizen,Citizen
-Fossil Women's Jacqueline Dress Quartz Watch,34,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-jacqueline-90.png,Fossil,Fossil
-Michael Kors MK Blair Chronograph,25,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-mk-blair-chr-91.png,Michael,Michael
-Omega Constellation Mother Of Pearl Diamond Dial Ladies Watch,33,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-mothe-92.png,Omega,Omega
-Fossil Women's Kerrigan Quartz Dress Quartz Watch,20,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-kerrigan-q-93.png,Fossil,Fossil
-Gucci Swiss Quartz Leather Dress Black Women's WatchModel YA,12,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-swiss-quartz-gold-t-94.png,Gucci,Gucci
-Gucci 'G Timeless' Quartz Silver Toned Women's WatchModel YA,19,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-g-timeless-quartz-95.png,Gucci,Gucci
-Swatch Unisex SUOZ Silver Glam Analog Display Quartz Black Watch,42,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-unisex-suoz-silver-96.png,Swatch,Swatch
-Bulova Women's L Analog Display Quartz Silver Watch,18,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-l-analog-d-97.png,Bulova,Bulova
-Citizen Women's 'Silhouette' Quartz Casual Watch Model EW A,22,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-silhouet-98.png,Citizen,Citizen
-Citizen Watches Women's EM D Jolie,29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-womens-e-99.png,Citizen,Citizen
-Swatch Originals Quartz Movement Gold Dial Unisex Watch LK,14,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-originals-quartz-m-100.png,Swatch,Swatch
-Casio Men's WH Super Illuminator Watch,20,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-mens-wh-super-illu-101.png,Casio,Casio
-"Fossil Gen Carlyle Touchscreen Smartwatch With Speaker, Heart Rate",35,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-gen-carlyle-stainl-102.png,Fossil,Fossil
-Nixon Time Teller A,13,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/nixon-time-teller-a-103.png,Nixon,Nixon
-Gucci 'G Timeless' Quartz Silver Toned Women's WatchModel YA,32,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-g-timeless-quartz-104.png,Gucci,Gucci
-Swatch Golden Tac GB,30,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-golden-tac-gb-105.png,Swatch,Swatch
-Citizen Women's EW,13,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-ew-106.png,Citizen,Citizen
-Fossil Women Jacqueline And Leather Casual Quartz Watch,34,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-women-jacqueline-s-107.png,Fossil,Fossil
-"Casio Women's Classic Quartz Watch With Resin Strap, Pink",21,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-womens-classic-qua-108.png,Casio,Casio
-Bulova Women's M Classic Japanese Quartz White Watch,21,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-m-classic-109.png,Bulova,Bulova
-Michael Kors Mini Slim Runway Watch,24,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-mini-slim-ru-110.png,Michael,Michael
-Casio Women's Vintage Daily Alarm Digital Gold Tone Watch,18,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-womens-vintage-law-111.png,Casio,Casio
-Michael Kors Women's Runway Brown Watch MK,28,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-womens-runw-112.png,Michael,Michael
-Swatch Unisex Analog Display Swiss Automatic Black Watch,30,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-unisex-suts-origin-113.png,Swatch,Swatch
-Gucci G Frame YA,19,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-g-frame-ya-114.png,Gucci,Gucci
-Swatch Originals Quartz Movement Black Dial Unisex Watch GB,26,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-originals-quartz-m-115.png,Swatch,Swatch
-Fossil Women's Modern Courier Chronograph Dress Quartz Watch,15,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-modern-cou-116.png,Fossil,Fossil
-Gucci Interlocking Leather Brown Women's WatchModel YA,21,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-interlocking-quartz-117.png,Gucci,Gucci
-Fossil Men's Machine Chronograph Quartz Watch,17,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-mens-machine-stai-118.png,Fossil,Fossil
-Fossil Women's Georgia Quartz,42,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-georgia-qu-119.png,Fossil,Fossil
-Citizen Women's Quartz Silver Tone Watch,10,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-quartz-si-120.png,Citizen,Citizen
-Fossil Women's FB Casual Quartz Watch,24,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-fb-stainle-121.png,Fossil,Fossil
-Omega Constellation Yellow Gold Men's Watch,12,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-co-ax-122.png,Omega,Omega
-Omega Men's Automatic Silver Watch,26,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-mens-constellation-123.png,Omega,Omega
-Casio Men's Vintage AWA Electro Luminescence Watch,44,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-mens-vintage-awa-e-124.png,Casio,Casio
-Bulova Women's Analog Display Quartz Silver Watch,41,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-r-rubaiyat-125.png,Bulova,Bulova
-Omega Constellation Diamond Black Dial Ladies Watch,40,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-diamo-126.png,Omega,Omega
-Omega Constellation Ladies Mini Watch,36,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-ladie-127.png,Omega,Omega
-Seiko Women's SXGL Watch,17,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/seiko-womens-sxgl-stainl-128.png,Seiko,Seiko
-Fossil Women's Jacqueline Mini Dress Quartz Watch,40,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-jacqueline-129.png,Fossil,Fossil
-"Men’s Military Watch, Dual Display Waterproof Sports Digital Watch",42,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/mens-military-watch-d-130.png,Swatch,Swatch
-Casio Women's Analog Digital Watch With White Resin Band,20,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-womens-ba-acr-baby-131.png,Casio,Casio
-Citizen Women's Quartz Watch With Plastic Strap,30,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-stainless-132.png,Citizen,Citizen
-Swatch Irony Quartz Unisex Watch YGG,14,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-irony-quartz-movem-133.png,Swatch,Swatch
-Gucci Women's WatchModel YA,44,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-stainless-steel-wom-134.png,Gucci,Gucci
-OMEGA Wristwatch Constellation Co Axial Automatic,42,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-wristwatch-constell-135.png,Omega,Omega
-"Casio Data Bank Quartz Watch With Resin Strap, Blue",29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-data-bank-quartz-wa-136.png,Casio,Casio
-Bulova Women's Swarovski Crystal Quartz Watch With Strap,44,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-swarovski-137.png,Bulova,Bulova
-Fossil Women's Riley Multifunction Glitz Quartz Watch,16,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-riley-stai-138.png,Fossil,Fossil
-Omega Constellation Mens Watch,11,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-mens-139.png,Omega,Omega
-Gucci G Timeless YA,28,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-g-timeless-ya-140.png,Gucci,Gucci
-Omega Constellation,43,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-141.png,Omega,Omega
-Fossil Gen Julianna Touchscreen,17,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-gen-julianna-stain-142.png,Fossil,Fossil
-Fossil Women's Gen Venture HR,30,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-gen-ventur-143.png,Fossil,Fossil
-Omega Seamaster Aqua Grey Dial Watch,29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-seamaster-aqua-terr-144.png,Omega,Omega
-Omega Constellation Champagne Dial,15,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-champ-145.png,Omega,Omega
-Omega Women's Mother Of Pearl Dial,26,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-womens-mother-of-p-146.png,Omega,Omega
-Omega,30,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-147.png,Omega,Omega
-"Citizen Women's Quartz Strap, Silver",29,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-quartz-st-148.png,Citizen,Citizen
-Swatch Black Rebel SUOB,30,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-black-rebel-suob-149.png,Swatch,Swatch
-Bulova Women's Swarovski Crystal Quartz Watch,21,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-swarovski-150.png,Bulova,Bulova
-Bulova Women's Watch With Ceramic Strap,43,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-marine-sta-151.png,Bulova,Bulova
-Michael Kors Womens MK Portia,22,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-womens-mk-po-152.png,Michael,Michael
-Swatch Golden Dial Golden Ladies Watch SUOK,40,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-golden-dial-golden-153.png,Swatch,Swatch
-Citizen Women's Eco Drive Diamond Accented Watch,36,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-eco-drive-154.png,Citizen,Citizen
-Swatch Unisex GG Shunbukin Analog Display Quartz,44,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-unisex-gg-shunbuki-155.png,Swatch,Swatch
-Fossil Women Neely And Leather Casual Quartz Watch,15,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-women-neely-stainl-156.png,Fossil,Fossil
-Casio G Shock GA GB Garish Series Watches,17,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-g-shock-ga-gb-garis-157.png,Casio,Casio
-Swatch Women's Watch With Silicone Bracelet GWO,24,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-womens-digital-qu-158.png,Swatch,Swatch
-Swatch Twice Again SUOB,12,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-twice-again-suob-159.png,Swatch,Swatch
-Gucci G Frame Watch,22,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-g-frame-watch-160.png,Gucci,Gucci
-Gucci G Timeless' Quartz Silver Toned Women's WatchModel YA,28,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-g-timeless-quartz-161.png,Gucci,Gucci
-Fossil Women's Jacqueline Hybrid Smartwatch,32,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-jacqueline-162.png,Fossil,Fossil
-Omega Speedmaster Chronograph Automatic Mm Watch,14,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-speedmaster-chronog-163.png,Omega,Omega
-Michael Kors Women's Sofie Quartz Watch,40,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-womens-sofi-164.png,Michael,Michael
-Citizen Watches EW D Silhouette,36,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-ew-d-silh-165.png,Citizen,Citizen
-Citizen Watches Men's AR E Eco Drive,21,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-mens-ar-166.png,Citizen,Citizen
-Swatch Big Bold Quartz Silicone Strap,40,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-big-bold-quartz-si-167.png,Swatch,Swatch
-Omega Unisex,16,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-unisex-168.png,Omega,Omega
-Fossil Women's Jesse Glitz Dress Quartz Watch,13,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-jesse-stai-169.png,Fossil,Fossil
+title,price,style,images,tab,categories,type,stores,amazon,best_buy,target
+Citizen Women's Drive Japanese Quartz Watch,21,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-drive-sta-33.png,Citizen,Citizen,4,"3, 6, 14, 17, 19",,,
+Fossil Women's Scarlette Glitz Quartz Watch,33,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-scarlette-73.png,Fossil,Fossil,1,"2, 5, 6, 13, 17",,,
+Fossil Women's Jacqueline Hybrid Smartwatch,32,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-jacqueline-162.png,Fossil,Fossil,4,"2, 3, 4, 5, 11",,,
+Omega Constellation Yellow Gold Men's Watch,12,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-co-ax-122.png,Omega,Omega,1,"4, 5, 9, 12, 19",,,
+"Swatch Classic Quartz Silicone Strap, White",27,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-classic-quartz-sil-5.png,Swatch,Swatch,4,"3, 5, 7, 16, 18",,,
+"Swatch Big Bold Quartz Silicone Strap, Grey",29,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-big-bold-quartz-si-50.png,Swatch,Swatch,4,"3, 4, 14, 15, 17",,,
+Fossil Men's Nate Chronograph Quartz Watch,42,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-mens-nate-stainle-79.png,Fossil,Fossil,2,"2, 7, 13, 17, 19",,,
+Omega Constellation Alligator Ladies Watch,38,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-purpl-39.png,Omega,Omega,4,"1, 6, 9, 18, 20",,,
+Fossil Gen Carlyle Touchscreen Smartwatch,35,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-gen-carlyle-stainl-102.png,Fossil,Fossil,1,"2, 4, 6, 9, 18",,,
+Michael Kors Slim Runway Three Hand Watch,44,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-slim-runway-10.png,Michael,Michael,1,"1, 2, 6, 14, 20",,,
+Michael Kors Slim Runway Three Hand Watch,17,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-slim-runway-62.png,Michael,Michael,2,"4, 10, 11, 15, 20",,,
+Citizen Women's Quartz Silver Tone Watch,10,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-quartz-si-120.png,Citizen,Citizen,2,"3, 4, 6, 8, 15",,,
+Casio G Shock GA GB Garish Series Watch,17,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-g-shock-ga-gb-garis-157.png,Casio,Casio,3,"8, 14, 15, 16, 18",,,
+Fossil Women's Izzy Casual Quartz Watch,32,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-izzy-stain-16.png,Fossil,Fossil,3,"6, 9, 10, 14, 16",,,
+Gucci Steel Case Dial With Bees Indexes,27,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-steel-case-dial-wit-8.png,Gucci,Gucci,4,"1, 5, 10, 12, 15",,,
+Michael Kors Women's Runway Brown Watch,28,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-womens-runw-112.png,Michael,Michael,3,"2, 3, 4, 10, 13",,,
+Michael Kors Women's Sofie Quartz Watch,40,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-womens-sofi-164.png,Michael,Michael,3,"5, 8, 12, 13, 17",,,
+Swatch Originals Red Rebel Unisex Watch,20,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-originals-red-rebe-63.png,Swatch,Swatch,1,"6, 7, 13, 14, 16",,,
+Casio Men's WH Super Illuminator Watch,20,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-mens-wh-super-illu-101.png,Casio,Casio,2,"2, 3, 8, 12, 14",,,
+Gucci Quartz Casual Silver Toned Watch,30,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-quartz-stainless-st-17.png,Gucci,Gucci,1,"2, 3, 4, 11, 15",,,
+"Swatch Irony Quartz Rubber Strap, Blue",24,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-irony-stainless-st-49.png,Swatch,Swatch,2,"3, 6, 12, 14, 18",,,
+"Swatch BAU Quartz Silicone Strap, Blue",43,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-bau-quartz-silicon-77.png,Swatch,Swatch,2,"2, 3, 4, 12, 18",,,
+Swatch Golden Dial Golden Ladies Watch,40,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-golden-dial-golden-153.png,Swatch,Swatch,1,"3, 4, 5, 7, 9",,,
+Citizen Women's Quartz Two Tone Watch,36,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-quartz-tw-85.png,Citizen,Citizen,1,"7, 10, 11, 13, 20",,,
+Fossil Q Men's Nate Hybrid Smartwatch,38,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-q-mens-nate-stain-13.png,Fossil,Fossil,4,"4, 8, 11, 17, 20",,,
+Fossil Women's FB Casual Quartz Watch,24,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-fb-stainle-121.png,Fossil,Fossil,3,"3, 4, 5, 7, 9",,,
+Michael Kors Wren Multifunction Watch,16,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-wren-stainle-38.png,Michael,Michael,1,"2, 9, 14, 18, 20",,,
+Omega Constellation Ladies Mini Watch,36,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-ladie-127.png,Omega,Omega,2,"3, 4, 9, 12, 14",,,
+Seiko Women's Tressia Japanese Quartz,28,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/seiko-womens-tressia-jap-1.png,Seiko,Seiko,1,"2, 3, 8, 12, 14",,,
+Swatch Skin Quartz Movement Blue Dial,16,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-skin-quartz-moveme-7.png,Swatch,Swatch,1,"1, 2, 6, 18, 20",,,
+Swatch Big Bold Quartz Silicone Strap,40,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-big-bold-quartz-si-167.png,Swatch,Swatch,2,"3, 6, 7, 11, 12",,,
+Bulova Women's Diamonds Quartz Watch,41,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-diamonds-q-27.png,Bulova,Bulova,4,"3, 4, 9, 12, 14",,,
+Bulova Women's Diamonds Quartz Watch,16,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-diamonds-q-69.png,Bulova,Bulova,1,"3, 10, 11, 12, 17",,,
+"Citizen Women's Quartz Strap, Silver",29,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-quartz-st-148.png,Citizen,Citizen,2,"6, 9, 10, 14, 16",,,
+Omega Seamaster Aqua Grey Dial Watch,29,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-seamaster-aqua-terr-144.png,Omega,Omega,2,"2, 3, 4, 10, 13",,,
+Casio Women's Pro Trek Quartz Watch,38,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-womens-pro-trek-qu-24.png,Casio,Casio,3,"4, 8, 13, 16, 20",,,
+Michael Kors Wren Chronograph Watch,35,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-wren-chronog-11.png,Michael,Michael,3,"5, 10, 11, 12, 17",,,
+Michael Kors Mini Slim Runway Watch,24,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-mini-slim-ru-110.png,Michael,Michael,3,"1, 2, 6, 14, 20",,,
+Casio Women's Classic Quartz Watch,21,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-womens-classic-qua-108.png,Casio,Casio,2,"1, 5, 10, 12, 15",,,
+Casio Women's Analog Digital Watch,20,dress,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-womens-ba-acr-baby-131.png,Casio,Casio,3,"1, 7, 12, 16, 19",,,
+Gucci Swiss Quartz Gold Tone Watch,11,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-swiss-quartz-gold-t-41.png,Gucci,Gucci,2,"3, 5, 12, 15, 18",,,
+Omega Men's Automatic Silver Watch,26,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-mens-constellation-123.png,Omega,Omega,1,"1, 3, 4, 13, 17",,,
+Omega Constellation Champagne Dial,15,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-champ-145.png,Omega,Omega,3,"4, 8, 11, 17, 20",,,
+Omega Women's Mother Of Pearl Dial,26,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-womens-mother-of-p-146.png,Omega,Omega,1,"1, 6, 8, 17, 20",,,
+Michael Kors MK Blair Chronograph,25,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-mk-blair-chr-91.png,Michael,Michael,3,"1, 11, 12, 14, 18",,,
+Gucci Quartz Toned Women's Watch,14,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-quartz-stainless-st-29.png,Gucci,Gucci,4,"1, 4, 11, 14, 15",,,
+Omega De Ville Prestige Co Axial,13,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-de-ville-prestige-c-56.png,Omega,Omega,3,"2, 6, 9, 10, 15",,,
+Seiko Women's SUP Two Tone Watch,25,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/seiko-womens-sup-two-ton-57.png,Seiko,Seiko,4,"4, 5, 10, 12, 15",,,
+Seiko Women's SUT Two Tone Watch,13,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/seiko-womens-sut-stainle-88.png,Seiko,Seiko,1,"1, 2, 3, 11, 15",,,
+Swatch Irony Quartz Unisex Watch,14,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-irony-quartz-movem-133.png,Swatch,Swatch,1,"2, 3, 8, 12, 14",,,
+Fossil Gen Julianna Touchscreen,17,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-gen-julianna-stain-142.png,Fossil,Fossil,1,"1, 2, 6, 14, 20",,,
+Gucci Grip Mm GG Engraved Watch,19,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-grip-mm-stainless-s-53.png,Gucci,Gucci,1,"1, 4, 5, 7, 8",,,
+Casio BGR Baby G Women's Watch,17,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-bgr-baby-g-womens-67.png,Casio,Casio,1,"2, 7, 13, 17, 18",,,
+Casio Illuminator Quartz Watch,11,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-illuminator-stainle-72.png,Casio,Casio,3,"5, 13, 15, 17, 19",,,
+Gucci Women's G Timeless Watch,27,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-womens-g-timeless-44.png,Gucci,Gucci,1,"5, 6, 7, 16, 18",,,
+Omega Constellation Mens Watch,37,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-blue-15.png,Omega,Omega,2,"1, 5, 11, 14, 17",,,
+Omega Constellation Mens Watch,11,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-mens-139.png,Omega,Omega,4,"1, 2, 6, 18, 20",,,
+Fossil Women's Georgia Quartz,42,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-georgia-qu-119.png,Fossil,Fossil,3,"2, 3, 9, 11, 18",,,
+Fossil Women's Gen Venture HR,30,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-gen-ventur-143.png,Fossil,Fossil,3,"5, 10, 11, 12, 17",,,
+Michael Kors Womens MK Portia,22,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/michael-kors-womens-mk-po-152.png,Michael,Michael,3,"3, 4, 6, 8, 15",,,
+Casio Data Bank Quartz Watch,32,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-data-bank-quartz-wa-35.png,Casio,Casio,1,"3, 6, 7, 11, 12",,,
+Casio Data Bank Quartz Watch,29,luxery,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-data-bank-quartz-wa-136.png,Casio,Casio,3,"13, 16, 17, 18, 19",,,
+Citizen Women's Quartz Watch,24,luxery,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-quartz-st-58.png,Citizen,Citizen,4,"2, 6, 12, 15, 19",,,
+Citizen Women's Quartz Watch,18,luxery,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-quartz-st-89.png,Citizen,Citizen,1,"1, 7, 12, 17, 18",,,
+Citizen Women's Quartz Watch,30,luxery,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-stainless-132.png,Citizen,Citizen,4,"1, 6, 9, 11, 14",,,
+Gucci Swiss Quartz Gold Tone,22,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-swiss-quartz-gold-t-6.png,Gucci,Gucci,2,"3, 6, 13, 14, 19",https://www.amazon.com/Bulova-Mens-96A120-Aperture-Watch/dp/B004I5GOK8/ref=sr_1_1_sspa?dchild=1&keywords=Swatch+Men%27s+Watch+With+Leather+Strap%2C+Green&qid=1606140912,https://www.bestbuy.com/site/fossil-leather-watch-strap-for-apple-watch-38mm-and-40mm-blush/6293289.p?skuId=6293289,https://www.target.com/p/insten-canvas-woven-fabric-band-for-apple-watch-38mm-40mm-all-series-se-6-5-4-3-2-1-for-women-girls-replacement-strap-rose-red/-/A-81521739#lnk=sametab
+Seiko Women's Two Tone Watch,40,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/seiko-womens-sut-ladies-34.png,Seiko,Seiko,4,"3, 5, 8, 13, 19",,,
+Men's Omega Seamaster Watch,19,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/mens-omega-seamaster-sta-32.png,Omega,Omega,2,"5, 8, 12, 13, 17",,,
+Swatch Women's Quartz Watch,13,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-womens-quartz-wat-42.png,Swatch,Swatch,3,"1, 4, 6, 8, 11",,,
+Swatch Men's Quartz Watch,37,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-mens-quartz-watch-60.png,Swatch,Swatch,2,"8, 9, 11, 13, 19",,,
+Citizen LTR Ladies Watch,36,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-ltr-ladies-watch-87.png,Citizen,Citizen,3,"4, 7, 8, 11, 12",,,
+Seiko Women's SXGL Watch,17,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/seiko-womens-sxgl-stainl-128.png,Seiko,Seiko,2,"4, 10, 14, 16, 19",,,
+Fossil Womens Tailor ES,20,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-tailor-es-25.png,Fossil,Fossil,4,"8, 14, 15, 16, 18",,,
+Fossil Womens Serena AM,42,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/fossil-womens-serena-am-74.png,Fossil,Fossil,4,"6, 11, 12, 15, 18",,,
+Swatch Black Rebel SUOB,30,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-black-rebel-suob-149.png,Swatch,Swatch,1,"2, 3, 4, 11, 15",,,
+Swatch Twice Again SUOB,12,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-twice-again-suob-159.png,Swatch,Swatch,3,"3, 4, 9, 12, 14",,,
+Bulova Women's Watch,43,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/bulova-womens-marine-sta-151.png,Bulova,Bulova,1,"2, 3, 9, 11, 18",,,
+Men’s Military Watch,41,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/mens-military-watch-d-12.png,Michael,Michael,3,"2, 3, 4, 10, 13",,,
+Swatch Windy Dune GE,20,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-windy-dune-ge-14.png,Swatch,Swatch,3,"1, 6, 8, 17, 20",,,
+Swatch Women's Watch,13,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-womens-watch-pnb-71.png,Swatch,Swatch,1,"6, 9, 18, 19, 20",,,
+Swatch Golden Tac GB,30,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-golden-tac-gb-105.png,Swatch,Swatch,3,"3, 5, 7, 16, 18",,,
+Men’s Military Watch,42,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/mens-military-watch-d-130.png,Swatch,Swatch,1,"2, 3, 4, 5, 11",,,
+Swatch Women's Watch,24,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-womens-digital-qu-158.png,Swatch,Swatch,3,"1, 2, 6, 17, 18",,,
+Gucci Women's Watch,44,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-stainless-steel-wom-134.png,Gucci,Gucci,4,"2, 4, 6, 9, 18",,,
+Gucci G Timeless YA,28,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-g-timeless-ya-140.png,Gucci,Gucci,2,"1, 5, 10, 12, 15",,,
+Gucci G Frame Watch,22,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-g-frame-watch-160.png,Gucci,Gucci,3,"4, 10, 14, 16, 19",,,
+Omega Constellation,43,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-constellation-141.png,Omega,Omega,2,"1, 7, 13, 18, 19",,,
+Citizen Women's EW,13,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-womens-ew-106.png,Citizen,Citizen,2,"3, 6, 13, 14, 19",,,
+COULAX Smart Watch,15,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/coulax-smart-watch-21.png,Coulax,Coulax,1,"3, 4, 5, 7, 9",,,
+COULAX Smart Watch,37,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/coulax-smart-watch-66.png,Coulax,Coulax,3,"3, 4, 7, 9, 19",,,
+Swatch Men's Watch,39,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-mens-stainless-st-0.png,Swatch,Swatch,4,"1, 6, 9, 11, 14",https://www.amazon.com/Bulova-Mens-96A120-Aperture-Watch/dp/B004I5GOK8/ref=sr_1_1_sspa?dchild=1&keywords=Swatch+Men%27s+Watch+With+Leather+Strap%2C+Green&qid=1606140912,https://www.bestbuy.com/site/fossil-leather-watch-strap-for-apple-watch-38mm-and-40mm-blush/6293289.p?skuId=6293289,https://www.target.com/p/insten-canvas-woven-fabric-band-for-apple-watch-38mm-40mm-all-series-se-6-5-4-3-2-1-for-women-girls-replacement-strap-rose-red/-/A-81521739#lnk=sametab
+Swatch Sir Blue GN,31,luxery,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-sir-blue-gn-23.png,Swatch,Swatch,2,"1, 3, 4, 13, 17",,,
+Swatch Azulbaya GL,25,luxery,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-azulbaya-gl-80.png,Swatch,Swatch,3,"1, 3, 4, 12, 15",,,
+Swatch Piege SUSB,45,luxery,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/swatch-piege-susb-81.png,Swatch,Swatch,2,"3, 4, 5, 16, 19",,,
+Gucci G Frame YA,19,luxery,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/gucci-g-frame-ya-114.png,Gucci,Gucci,3,"1, 6, 8, 17, 20",,,
+Citizen Watch,19,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-minnie-mo-9.png,Citizen,Citizen,3,"1, 7, 13, 18, 19",,,
+Citizen Watch,39,casual,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-womens-e-51.png,Citizen,Citizen,3,"1, 4, 5, 9, 13",,,
+Citizen Watch,37,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-womens-f-59.png,Citizen,Citizen,3,"1, 2, 13, 17, 20",,,
+Citizen Watch,12,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-womens-e-64.png,Citizen,Citizen,2,"1, 10, 13, 15, 18",,,
+Citizen Watch,39,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-womens-f-75.png,Citizen,Citizen,2,"1, 3, 13, 15, 16",,,
+Citizen Watch,12,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-womens-fb-78.png,Citizen,Citizen,4,"1, 10, 12, 17, 19",,,
+Citizen Watch,29,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-womens-e-99.png,Citizen,Citizen,2,"2, 6, 8, 9, 18",,,
+Citizen Watch,36,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-ew-d-silh-165.png,Citizen,Citizen,4,"3, 6, 14, 17, 19",,,
+Citizen Watch,21,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/citizen-watches-mens-ar-166.png,Citizen,Citizen,1,"3, 5, 8, 13, 19",,,
+Omega Unisex,16,sport,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/omega-unisex-168.png,Omega,Omega,2,"2, 4, 5, 9, 10",,,
+Casio Men's,12,luxery,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/casio-mens-2.png,Casio,Casio,2,"2, 4, 6, 9, 18",,,
+Men's Watch,20,fashion,https://raw.githubusercontent.com/wpmaps/sample-data/master/products-images/watches/mens-watch-unisex-minima-3.png,Casio,Casio,1,"3, 7, 9, 13, 20",https://www.amazon.com/Bulova-Mens-96A120-Aperture-Watch/dp/B004I5GOK8/ref=sr_1_1_sspa?dchild=1&keywords=Swatch+Men%27s+Watch+With+Leather+Strap%2C+Green&qid=1606140912,https://www.bestbuy.com/site/fossil-leather-watch-strap-for-apple-watch-38mm-and-40mm-blush/6293289.p?skuId=6293289,https://www.target.com/p/insten-canvas-woven-fabric-band-for-apple-watch-38mm-40mm-all-series-se-6-5-4-3-2-1-for-women-girls-replacement-strap-rose-red/-/A-81521739#lnk=sametab
